@@ -88,7 +88,7 @@ permalink: /
       <div class="content bg-content">
         <h3>{{ p.title}}</h3>
         <p class="page-description">{{ p.description}}</p>
-        <a class="btn btn-primary" href="{{ p.url}}">Más información</a>
+        <a class="btn btn-primary" href="{{ site.baseurl }}{{ p.url}}">Más información</a>
       </div>
     </div>
   {% endif %}
