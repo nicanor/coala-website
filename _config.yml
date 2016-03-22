@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   de la explotación animal, alentarlas a hacerce veganas, acompañarlas en
   su transición e inspirarlas a involucrarse a través de activismo vegano
   no violento y efectivo.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/coala-website" # the subpath of your site, e.g. /blog
 url: "http://coala.com.ar" # the base hostname & protocol for your site
 twitter_username: coala.libre
 github_username:  nicanor
