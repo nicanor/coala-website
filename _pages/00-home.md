@@ -209,48 +209,23 @@ permalink: /
   <div class="container">
     <h2 class="section-header">Involucrate</h2>
 
-    <div class="row">
-      <div class="col-lg-12 text-center">
         <h3>Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros.</h3>
         <p class="lead">Si no sabés cómo empezar, estás invitado a participar con nosotros.</p>
-      </div>
 
-      <div class="col-md-7">
-        <a href="#">
-          <img class="img-responsive" src="assets/difusion.jpg" alt="">
-        </a>
-      </div>
 
-      <div class="col-md-5">
+
         <h3>Activismos en 7 y 50</h3>
         <h4>Sumate!</h4>
         <p>Todos los viernes a la tarde nos podés encontrar en la esquina de 7 y 50 (La Plata) difundiendo los derechos animales y el veganismo. ¡Si querés informarte o participar acércate a conocernos!</p>
-      </div>
 
-      <div class="col-md-7">
-        <a href="#">
-          <img class="img-responsive" src="assets/pizza.jpg" alt="">
-        </a>
-      </div>
-
-      <div class="col-md-5">
         <h3>Talleres de cocina</h3>
         <h4>Sumate!</h4>
         <p>Además realizamos talleres de cocina todos los meses para mostrarle a las personas que una forma de vida vegana puede ser saludable, nutricionalmente adecuada, deliciosa y al alcance de todos!</p>
-      </div>
 
-      <div class="col-md-7">
-        <a href="#">
-          <img class="img-responsive" src="assets/charlas.jpg" alt="">
-        </a>
-      </div>
-
-      <div class="col-md-5">
         <h3>Eventos y charlas</h3>
         <h4>Sumate!</h4>
         <p>Además realizamos otras actividades de difusión, como degustaciones en plazas y charlas en eventos en La Plata y en otras ciudades, y proyecciones.</p>
-      </div>
-    </div>
+
   </div>
 </section>
 
@@ -267,7 +242,7 @@ permalink: /
       </div>
 
       <div class="col-lg-6 text-center">
-        <span class="fa-stack fa-5x">
+        <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x greencolor"></i>
           <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
         </span>
@@ -275,7 +250,7 @@ permalink: /
       </div>
 
       <div class="col-lg-6 text-center">
-        <span class="fa-stack fa-5x">
+        <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x greencolor"></i>
           <i class="fa fa-google fa-stack-1x fa-inverse"></i>
         </span>
