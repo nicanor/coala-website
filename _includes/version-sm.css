@@ -1,5 +1,9 @@
 /* LESS THAN 48 */
 
+#cover .fill{
+  height: 60% !important;
+}
+
 #menu-realidad {
   white-space: nowrap;
 }
@@ -8,4 +12,9 @@
   display: inline-block;
   font-size: 0.5em;
   overflow: auto;
+}
+
+.navbar .hidden-md-up {
+  font-size:2em;
+  line-height: 0.6em;
 }

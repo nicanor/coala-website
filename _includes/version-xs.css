@@ -1,4 +1,9 @@
 /* LESS THAN 34 */
+
+#cover .fill{
+  height: 40% !important;
+}
+
 .nav-stacked .nav-item {
   font-size: 0.4em;
 }
