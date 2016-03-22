@@ -1,0 +1,11 @@
+/* LESS THAN 48 */
+
+#menu-realidad {
+  white-space: nowrap;
+}
+
+.nav-stacked .nav-item {
+  display: inline-block;
+  font-size: 0.5em;
+  overflow: auto;
+}

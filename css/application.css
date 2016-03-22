@@ -1,0 +1,191 @@
+---
+---
+
+html,
+body {
+  height: 100%;
+  background-color: #fff;
+}
+
+/* LESS THAN 75 */
+@media (max-width: 74.9em) {
+  {% include version-lg.css %}
+}
+
+/* LESS THAN 62 */
+@media (max-width: 61.9em) {
+  {% include version-md.css %}
+}
+
+/* LESS THAN 48 */
+@media (max-width: 47.9em) {
+  {% include version-sm.css %}
+}
+
+/* LESS THAN 34 */
+@media (max-width: 33.9em) {
+  {% include version-xs.css %}
+}
+
+.page {
+  padding-top: 6em;
+  text-align: justify;
+}
+
+.page-content {
+  padding-top: 2rem;
+}
+
+.vision {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.vision > .important {
+  padding-top: 0em; 
+  font-size: 2em;
+}
+
+li.active {
+  font-weight: bolder;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+.fill {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  padding-top: .8rem;
+}
+
+.page-description {
+  font-size: 1.4em;
+}
+
+/* Sections
+ * --------------------------------------- */
+
+#cover,
+#realidad { height:100%;}
+
+#problematica,
+#realidad,
+#propuesta {  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom-left;
+}
+
+#problematica,
+#problematica2,
+#realidad,
+#propuesta,
+#quienes-somos,
+#involucrate,
+#contacto {
+  padding-top: 6em;
+}
+
+#cover .fill{
+  background-image: url(../assets/cover.jpg);
+}
+
+#problematica {
+  background-image: url(../assets/background1.jpg);
+}
+
+#realidad {
+  background-image: url(../assets/background2d.jpg);
+}
+
+#propuesta {
+  background-image: url(../assets/queesveganismo.jpg);
+}
+
+.bg-content {
+  background-color: rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  padding: 20px;
+  width: 100%;
+  color: #333;
+  text-align: center;
+}
+
+.bg-green{
+  background-color: rgb(0, 166, 90);
+}
+
+.bg-green-alpha{
+  background-color: rgba(0, 166, 90, 0.20);
+}
+
+.top-space{
+  padding-top: 3em;
+}
+
+
+/*
+HR Style
+*/
+.section-header,
+.page-header {
+  border-bottom-style: solid;
+  border-bottom-color: #000;
+  border-bottom-width: 1px;
+}
+
+.section-header {
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+hr.style18 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: #000; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #000; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+.greencolor{
+  color: rgb(0, 166, 90); 
+}
+
+#realidad-menu a{
+  color: black;
+}
+
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.thumbnail{
+  background-color: rgba(255,255,255,0.5);
+}
