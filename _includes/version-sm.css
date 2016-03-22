@@ -1,8 +1,7 @@
 /* LESS THAN 48 */
 
-#cover .fill{
-  height: 60% !important;
-}
+
+#cover { height:60% !important;}
 
 #menu-realidad {
   white-space: nowrap;
@@ -14,7 +13,7 @@
   overflow: auto;
 }
 
-.navbar .hidden-md-up {
+.navbar .circle {
   font-size:2em;
   line-height: 0.6em;
 }

@@ -1,7 +1,13 @@
 /* LESS THAN 34 */
 
 #cover .fill{
-  height: 40% !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: contain !important;
+  -moz-background-size: contain !important;
+  background-size: contain !important;
+  -o-background-size: contain !important;
+  background-size: contain !important;
 }
 
 .nav-stacked .nav-item {
