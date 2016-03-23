@@ -4,6 +4,7 @@ number: 4
 title: Vestimenta
 permalink: /vestimenta
 kind: explotacion
+next_page: /compra-y-venta
 ---
 
 

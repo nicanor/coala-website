@@ -4,6 +4,7 @@ number: 2
 title: Entretenimiento
 permalink: /entretenimiento
 kind: explotacion
+next_page: /zoologicos-y-acuarios
 
 description: > # ignore newlines until next key.
   Los animales han sido utilizados por los seres humanos durante cientos

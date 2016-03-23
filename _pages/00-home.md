@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <section id="cover">
-  <div class="fill"></div>
+  <img src="assets/cover-1920-800.jpg" class="img-fluid" alt="Responsive image">
 </section>
 
 <div class="container">
@@ -66,7 +66,7 @@ permalink: /
 
 <div class="row">
 
-<div class="col-lg-3 col-sm-12">
+<div class="col-md-3 col-sm-12 hidden-sm-down">
 <ul id="menu-realidad" class="nav nav-tabs nav-stacked">
 {% for p in site.pages %}
   {% if p.kind == 'explotacion' %}  
@@ -80,12 +80,36 @@ permalink: /
 </ul>
 </div>
 
-<div class="col-lg-9 col-sm-12">
+<div class="col-md-9 col-sm-12">
 <section id="myTabContent" class="tab-content">
 {% for p in site.pages %}
   {% if p.kind == 'explotacion' %}
+
+  {% assign post_index0 = forloop.index0 %}
+  {% assign post_index1 = forloop.index %}
+
     <div class="tab-pane fade {% if p.number == 2 %}active in{% endif %}" id="{{ p.url | remove:'/'}}">
       <div class="content bg-content">
+
+        {% for post in site.pages %}
+          {% if post_index0 == forloop.index  %}
+            {% assign prev_post = post.url | remove:'/' %}
+          {% endif %}
+          {% if post_index1 == forloop.index0 %}
+            {% assign next_post = post.url | remove:'/' %}
+          {% endif %}
+        {% endfor %}
+
+        <nav id="paginador-realidad" class="hidden-md-up">
+          {% if prev_post and forloop.index > 3 %}
+            <a class="btn btn-primary-outline" data-toggle="tab" href="#{{ prev_post }}">← Anterior</a>
+          {% endif %}
+
+          {% if next_post and forloop.index < 9 %}
+            <a class="btn btn-primary-outline"  data-toggle="tab" href="#{{ next_post }}">Siguiente →</a>
+          {% endif %}
+        </nav>
+
         <h3>{{ p.title}}</h3>
         <p class="page-description">{{ p.description}}</p>
         <a class="btn btn-primary" href="{{ site.baseurl }}{{ p.url}}">Más información</a>

@@ -1,5 +1,7 @@
 /* LESS THAN 34 */
-
+#cover {
+  padding-top: 4rem;
+}
 #cover .fill{
   background-repeat: no-repeat;
   background-position: center;

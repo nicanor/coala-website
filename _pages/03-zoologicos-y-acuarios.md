@@ -4,6 +4,7 @@ number: 3
 title: Zoológicos y acuarios
 permalink: /zoologicos-y-acuarios
 kind: explotacion
+next_page: /vestimenta
 
 description: > # ignore newlines until next key.
   Las pobres condiciones en las que viven estos animales junto con el

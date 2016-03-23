@@ -27,6 +27,12 @@ body {
   {% include version-xs.css %}
 }
 
+@media (max-width: 24.5em) {
+  .circle {
+    display: none !important;
+  }
+}
+
 .page {
   padding-top: 6em;
   text-align: justify;
@@ -75,7 +81,6 @@ li.active {
 /* Sections
  * --------------------------------------- */
 
-#cover,
 #realidad { height:100%;}
 
 #problematica,
@@ -90,6 +95,7 @@ li.active {
 #problematica2,
 #realidad,
 #propuesta,
+#quienes-somos,
 #involucrate,
 #contacto {
   padding-top: 6em;

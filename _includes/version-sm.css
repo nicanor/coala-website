@@ -1,16 +1,14 @@
 /* LESS THAN 48 */
+#cover {
+  padding-top: 2rem;
+}
 
-
-#cover { height:60% !important;}
+#paginador-realidad {
+  padding-bottom: 2em;
+}
 
 #menu-realidad {
   white-space: nowrap;
-}
-
-.nav-stacked .nav-item {
-  display: inline-block;
-  font-size: 0.5em;
-  overflow: auto;
 }
 
 .navbar .circle {
