@@ -12,7 +12,7 @@
     <article class="page container">
       <div class="row">
         <div class="col-md-3">
-          <ul class="nav nav-pill nav-stacked">
+          <ul class="nav nav-pill nav-stacked hidden-sm-down">
             {% for p in site.pages %}
               {% if p.url != '/' %}
               <li class="nav-item active">
@@ -24,7 +24,46 @@
         </div>
 
         <div class="col-md-9">
-          <header class="page-header">
+
+          {% for p in site.pages %}
+            {% if p.url == page.url %}
+              {% assign post_index0 = forloop.index0 %}
+              {% assign post_index1 = forloop.index %}
+          
+              {% for post in site.pages %}
+                {% if post_index0 == forloop.index %}
+                  {% assign prev_post_url = post.url %}
+                  {% assign prev_post_title = post.title %}
+                {% endif %}
+                {% if post_index1 == forloop.index0 %}
+                  {% assign next_post_url = post.url %}
+                  {% assign next_post_title = post.title %}
+                {% endif %}
+              {% endfor %}
+          
+              <nav id="paginador" class="hidden-md-up">
+                <ul class="pager">
+                {% if prev_post_url and post_index0 > 1 %}
+                  <li class="pager-prev">
+                    <a data-toggle="tab" href="{{ site.baseurl }}{{ prev_post_url }}">
+                    ← <span class="pager-page-title">{{ prev_post_title }}</span>
+                    </a>
+                  </li>
+                {% endif %}
+          
+                {% if next_post_url and post_index0 < 14 %}
+                  <li class="pager-next">
+                    <a data-toggle="tab" href="{{ site.baseurl }}{{ next_post_url }}">
+                      <span class="pager-page-title">{{ next_post_title }}</span> →
+                    </a>
+                  </li>
+                {% endif %}
+                </ul>
+              </nav>
+            {% endif %}
+          {% endfor %}
+
+          <header class="page-header">          
             <h1 class="page-title">{{ page.title }}</h1>
           </header>
     

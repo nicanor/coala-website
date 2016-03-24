@@ -27,9 +27,16 @@ body {
   {% include version-xs.css %}
 }
 
-@media (max-width: 24.5em) {
-  .circle {
+/* LESS THAN 25 */
+@media (max-width: 24.9em) {
+  .pager {
+    font-size: 3em;
+  }
+  .pager-page-title {
     display: none !important;
+  }
+  .circle {
+    font-size:2em !important;
   }
 }
 

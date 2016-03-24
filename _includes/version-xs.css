@@ -1,15 +1,11 @@
 /* LESS THAN 34 */
+
 #cover {
   padding-top: 4rem;
 }
-#cover .fill{
-  background-repeat: no-repeat;
-  background-position: center;
-  -webkit-background-size: contain !important;
-  -moz-background-size: contain !important;
-  background-size: contain !important;
-  -o-background-size: contain !important;
-  background-size: contain !important;
+
+.circle {
+  font-size:3em !important;
 }
 
 .nav-stacked .nav-item {

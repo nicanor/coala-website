@@ -5,7 +5,9 @@ permalink: /
 ---
 
 <section id="cover">
-  <img src="assets/cover-1920-800.jpg" class="img-fluid" alt="Responsive image">
+  <img src="assets/cover-1024.jpg"
+    srcset="assets/cover-1024.jpg 1024w, assets/cover-1920-800.jpg 1920w"
+class="img-fluid" alt="Responsive image">
 </section>
 
 <div class="container">
@@ -49,8 +51,10 @@ permalink: /
 
 
 <section id="problematica2">
-  <div class="bg-content problematica-principal">         
-    <p class="lead">Los animales son usados por los seres humanos para producción de vestimenta y alimentos, testeo de productos médicos y cosméticos, transporte de personas y de cargas pesadas, exposición en zoológicos y acuarios, con fines de entretenimiento en circos, corridas de toros, peleas de perros y doma, deportes como la pesca y las carreras y con fines bélicos, entre otros.</p>
+  <div class="problematica-principal">
+    <p>Los animales son usados por los seres humanos para producción de vestimenta y alimentos, para testeo de productos médicos y cosméticos, para transporte de personas y de cargas pesadas, y para exposición en zoológicos y acuarios.</p>
+  
+    <p>También con fines de entretenimiento en circos, corridas de toros, peleas de perros y doma, deportes tales como la pesca y las carreras, y con fines bélicos, entre otros.</p>
          
     <p>Todos estos usos resultan en sufrimiento y muerte a los animales, y son totalmente innecesarios.</p> 
   </div>
@@ -93,21 +97,33 @@ permalink: /
 
         {% for post in site.pages %}
           {% if post_index0 == forloop.index  %}
-            {% assign prev_post = post.url | remove:'/' %}
+            {% assign prev_post_id = post.url | remove:'/' %}
+            {% assign prev_post_title = post.title %}
           {% endif %}
           {% if post_index1 == forloop.index0 %}
-            {% assign next_post = post.url | remove:'/' %}
+            {% assign next_post_id = post.url | remove:'/' %}
+            {% assign next_post_title = post.title %}
           {% endif %}
         {% endfor %}
 
         <nav id="paginador-realidad" class="hidden-md-up">
-          {% if prev_post and forloop.index > 3 %}
-            <a class="btn btn-primary-outline" data-toggle="tab" href="#{{ prev_post }}">← Anterior</a>
-          {% endif %}
-
-          {% if next_post and forloop.index < 9 %}
-            <a class="btn btn-primary-outline"  data-toggle="tab" href="#{{ next_post }}">Siguiente →</a>
-          {% endif %}
+          <ul class="pager">
+            {% if prev_post_id and forloop.index > 3 %}
+              <li class="pager-prev">
+                <a data-toggle="tab" href="#{{ prev_post_id }}">
+                ← <span class="pager-page-title">{{ prev_post_title }}</span>
+                </a>
+              </li>
+            {% endif %}
+          
+            {% if next_post_id and forloop.index < 9 %}
+              <li class="pager-next">
+                <a data-toggle="tab" href="#{{ next_post_id }}">
+                  <span class="pager-page-title">{{ next_post_title }}</span> →
+                </a>
+              </li>
+            {% endif %}
+          </ul>
         </nav>
 
         <h3>{{ p.title}}</h3>
@@ -124,135 +140,88 @@ permalink: /
 
 </section>
 
-</div>
 
 
 
 <section id="propuesta">
-  <div class="container">
     <h2 class="section-header">Propuesta</h2>
 
-    <div class="row">
-      <div class="col-lg-12 text-center">
+    <p>Los animales valoran sus vidas incluso si nadie más lo hace. Son capaces de ser felices y de sufrir, y en este momento la están pasando muy mal.</p>
 
-        <div class="col-lg-12">
-          <div class="featurette" id="about">
-            <img class="featurette-image img-circle img-responsive pull-right" src="assets/queesveganismo.png">
-            <h2 class="featurette-heading">El veganismo es una posición ética <span class="text-muted"> que busca exluir en la medida de lo posible y practicable, todas las formas de explotación y crueldad hacia los animales.</span></h2>
+    <h3>¿Es dejar la carne la solución?</h3>
 
-            <p class="lead">Los veganos no comemos carne, lácteos ni huevos; no usamos lana, cuero ni otras pieles; no asistimos a espectáculos con animales y rechazamos la experimentación animal.</p>  
-            <p class="lead">Ser vegano es reconocer el valor moral de los animales y aplicar en nuestras vidas la idea de que la explotación animal es inaceptable.</p>
-            <p class="lead">Podemos vivir vidas felices y saludables sin usar a los animales, y eso es lo más importante que cada uno de nosotros puede hacer ahora mismo por ellos.</p>
-          </div>
-        </div>
+    <p>Dejar la carne es una decisión muy importante, aunque se debe tener en cuenta que en la industria de los huevos y la leche hay tanto o más sufrimiento, y una vez que el animal deja de ser económicamente eficiente en su producción, se lo mata.</p>
 
-        <div class="col-lg-6 text-center">
-          <div class="thumbnail">
-            <img src="" alt="">
-            <div class="caption">
-              <h3>Documental Terrícolas</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <p><a href="https://youtube.googleapis.com/v/PRrH6Ml5IDU" class="btn btn-default">Ver</a></p>
-            </div>
-          </div>
-        </div>
+    <h3>¿Y si mejoramos las condiciones en las cuales los animales son utilizados?</h3>
 
-        <div class="col-lg-6 text-center">
-          <div class="thumbnail">
-            <img src="" alt="">
-            <div class="caption">
-              <h3>El mejor discurso que jamás escucharás !!!</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <p><a href="https://youtube.googleapis.com/v/PRrH6Ml5IDU" class="btn btn-default">Ver</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
+    <p>La mayoría de las prácticas más cureles ocurren también en granjas no industriales. Debido a que los naimales son vistos como propiedad, se permite que las personas los usen para cualquier propósito que quieran y que les provoquen un terrible sufrimiento en el proceso.</p>
+
+    <h3>¿Y cuál es la solución?</h3>
+
+    <p>En la medida en que no cambiemos nuestra mirada hacia los animales, jamás habrá un cambio significativo para ellos. Es por esto que debemos abolir todo uso animal.</p>
+
+    <p class="lead">Esto en la práctica significa ser vegamos.</p>
+
+    <div class="featurette" id="about">
+      <h2 class="featurette-heading">El veganismo es una posición ética <span class="text-muted"> que busca exluir en la medida de lo posible y practicable, todas las formas de explotación y crueldad hacia los animales.</span></h2>
+
+      <p class="lead">Los veganos no comemos carne, lácteos ni huevos; no usamos lana, cuero ni otras pieles; no asistimos a espectáculos con animales y rechazamos la experimentación animal.</p>  
+      <p class="lead">Ser vegano es reconocer el valor moral de los animales y aplicar en nuestras vidas la idea de que la explotación animal es inaceptable.</p>
+      <p class="lead">Podemos vivir vidas felices y saludables sin usar a los animales, y eso es lo más importante que cada uno de nosotros puede hacer ahora mismo por ellos.</p>
     </div>
-  </div>
-</section>
-
-
-
-
-<section id="quienes-somos2">
-  <div class="container">
-    <h2 class="section-header">¿Quiénes somos?</h2>
 
     <div class="row">
-      <div class="col-lg-12 text-center">
-        <h4 class="">Somos un <span class="greencolor">grupo de activistas</span> formado en la ciudad de La Plata dedicado a la <span class="greencolor">difusión del veganismo</span>. Coala nació en agosto de 2013 y, a partir de entonces, <span class="greencolor">lucha sin descanso</span> por la liberación animal.</h4>
-      </div>
-        
-      <div class="col-lg-12 text-center">
-        <img id="logoimg" src="assets/cow.jpg" alt="Smiley face" height="190" width="255">
+
+      <div class="col-lg-6 text-center">
+        <div class="thumbnail">
+          <img src="" alt="">
+          <div class="caption">
+            <h3>Documental Terrícolas</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p><a href="https://youtube.googleapis.com/v/PRrH6Ml5IDU" class="btn btn-default">Ver</a></p>
+          </div>
+        </div>
       </div>
 
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading">Nuestros ejes de trabajo son:</h2>
+      <div class="col-lg-6 text-center">
+        <div class="thumbnail">
+          <img src="" alt="">
+          <div class="caption">
+            <h3>El mejor discurso que jamás escucharás !!!</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p><a href="https://youtube.googleapis.com/v/PRrH6Ml5IDU" class="btn btn-default">Ver</a></p>
+          </div>
+        </div>
       </div>
     </div>
-    
-    <div class="row text-center">
-      <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x greencolor"></i>
-          <i class="fa fa-info fa-stack-1x fa-inverse"></i>
-        </span>
-        
-        <h4 class="service-heading">Difusión de la problemática del uso animal</h4>
-        <p class="text-muted text-morebig">De forma comprometida y no violenta informamos a las personas sobre la grave situación que están viviendo los animales a causa del uso que les dan los seres humanos, alentando al cambio personal y a la abolición del uso animal en el ámbito individual.</p>
-      </div>
-      
-      <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x greencolor"></i>
-          <i class="fa fa-comments fa-stack-1x fa-inverse"></i>
-        </span>
-
-        <h4 class="service-heading">Asistencia a las personas para impulsarlas a hacer la transición al veganismo.</h4>
-        <p class="text-muted text-morebig">Con la amabilidad y continuidad que nos caracteriza, motivamos a las personas con preocupación por los animales a realizar la transición a una forma de vida vegana. Si queremos eliminar la explotación animal, un movimiento vegano es un requisito necesario, y ese movimiento empieza con la decisión de cada individuo.</p>
-      </div>
-
-      <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x greencolor"></i>
-          <i class="fa fa-users fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4 class="service-heading">Alentar a las personas veganas o en transición a realizar activismo.</h4>
-        <p class="text-muted text-morebig">Creemos que lo siguiente más importante que podemos hacer por los animales es ayudar a difundir los derechos animales y el veganismo. Los animales tienen voz, pero han sido silenciados, y necesitan que nosotros seamos su voz).</p>
-      </div>
-    </div>
-  </div>
 </section>
-
-
-
 
 <section id="involucrate">
-  <div class="container">
-    <h2 class="section-header">Involucrate</h2>
+  <h2 class="section-header">Involucrate</h2>
 
-        <h3>Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros.</h3>
-        <p class="lead">Si no sabés cómo empezar, estás invitado a participar con nosotros.</p>
+  <h3>Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros.</h3>
+  
+  <p class="lead">Si no sabés cómo empezar, estás invitado a participar con nosotros.</p>
 
+  <h3>Activismos en 7 y 50</h3>
+  <h4>Sumate!</h4>
+  
+  <p>Todos los viernes a la tarde nos podés encontrar en la esquina de 7 y 50 (La Plata) difundiendo los derechos animales y el veganismo. ¡Si querés informarte o participar acércate a conocernos!</p>
 
+  <h3>Talleres de cocina</h3>
+  <h4>Sumate!</h4>
+  
+  <p>Además realizamos talleres de cocina todos los meses para mostrarle a las personas que una forma de vida vegana puede ser saludable, nutricionalmente adecuada, deliciosa y al alcance de todos!</p>
 
-        <h3>Activismos en 7 y 50</h3>
-        <h4>Sumate!</h4>
-        <p>Todos los viernes a la tarde nos podés encontrar en la esquina de 7 y 50 (La Plata) difundiendo los derechos animales y el veganismo. ¡Si querés informarte o participar acércate a conocernos!</p>
+  <h3>Eventos y charlas</h3>
+  <h4>Sumate!</h4>
+  
+  <p>Además realizamos otras actividades de difusión, como degustaciones en plazas y charlas en eventos en La Plata y en otras ciudades, y proyecciones.</p>
 
-        <h3>Talleres de cocina</h3>
-        <h4>Sumate!</h4>
-        <p>Además realizamos talleres de cocina todos los meses para mostrarle a las personas que una forma de vida vegana puede ser saludable, nutricionalmente adecuada, deliciosa y al alcance de todos!</p>
-
-        <h3>Eventos y charlas</h3>
-        <h4>Sumate!</h4>
-        <p>Además realizamos otras actividades de difusión, como degustaciones en plazas y charlas en eventos en La Plata y en otras ciudades, y proyecciones.</p>
-
-  </div>
 </section>
 
+
+</div>
 
 
 
