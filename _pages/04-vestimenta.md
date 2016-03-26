@@ -65,14 +65,14 @@ Los métodos utilizados para matar a estos animales van desde el gaseado con mon
 </div>
 
 
-[zorro]: assets/image/fox1_opt.jpeg
+[zorro]: images/04-zorro.jpeg
 {:class="figure-img img-fluid img-rounded"}
 
-[cuero]: assets/image/9065bb41a1f4dac28be62c_opt.jpeg
+[cuero]: images/04-cuero.jpeg
 {:class="figure-img img-fluid img-rounded"}
 
-[lana]: assets/image/OSV%20Sheep%20shearing%20126_opt.jpeg
+[lana]: images/04-lana.jpeg
 {:class="figure-img img-fluid img-rounded"}
 
-[plumas]: assets/image/gooseplucking_opt.jpeg
+[plumas]: images/04-plumas.jpeg
 {:class="figure-img img-fluid img-rounded"}

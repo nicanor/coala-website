@@ -29,7 +29,7 @@ Para conseguir un animal con unas características físicas y psíquicas concret
 
 </figure>
 
-![and_other]
+![adopta]
 
 #### NO COMPRES UNO DE RAZA, ADOPTÁ UNO SIN CASA
 
@@ -40,11 +40,11 @@ En las calles hay muchos animales que necesitan un hogar de forma desesperada. C
 
 
 
-[dogs]: assets/image/1097751_opt.jpeg
+[dogs]: images/05-dogs.jpeg
 {:class="img-fluid"}
 
-[aves]: assets/image/25470_1_opt.jpeg
+[aves]: images/05-loros.jpeg
 {:class="figure-img img-fluid img-rounded"}
 
-[and_other]: assets/image/Stray_dogs_crosswalk_opt.jpeg
+[adopta]: images/05-adopta.jpeg
 {:class="img-fluid"}

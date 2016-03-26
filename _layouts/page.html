@@ -7,23 +7,8 @@
       <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img id="logoimg" src="assets/logoinit.png" alt="Coala" height="35" width="125">
       </a>
-    </nav>
 
-    <article class="page container">
-      <div class="row">
-        <div class="col-md-3">
-          <ul class="nav nav-pill nav-stacked hidden-sm-down">
-            {% for p in site.pages %}
-              {% if p.url != '/' %}
-              <li class="nav-item active">
-                <a class="nav-link" {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
-              </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
-
-        <div class="col-md-9">
+      <ul class="nav navbar-nav pull-xs-right">
 
           {% for p in site.pages %}
             {% if p.url == page.url %}
@@ -41,28 +26,43 @@
                 {% endif %}
               {% endfor %}
           
-              <nav id="paginador" class="hidden-md-up">
-                <ul class="pager">
+              <nav id="paginador">
                 {% if prev_post_url and post_index0 > 1 %}
-                  <li class="pager-prev">
-                    <a data-toggle="tab" href="{{ site.baseurl }}{{ prev_post_url }}">
-                    ← <span class="pager-page-title">{{ prev_post_title }}</span>
-                    </a>
+                  <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}{{ prev_post_url }}" title="{{ prev_post_title }}">❰</a>
                   </li>
                 {% endif %}
-          
-                {% if next_post_url and post_index0 < 14 %}
-                  <li class="pager-next">
-                    <a data-toggle="tab" href="{{ site.baseurl }}{{ next_post_url }}">
-                      <span class="pager-page-title">{{ next_post_title }}</span> →
-                    </a>
+                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#page-navigation">+</a>
+                  </li>
+                {% if next_post_url and post_index0 < 11 %}
+                  <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}{{ next_post_url }}" title="{{ next_post_title }}">❱</a>
                   </li>
                 {% endif %}
                 </ul>
               </nav>
             {% endif %}
           {% endfor %}
+      </ul>
+    </nav>
 
+    <article class="page container">
+
+      <div class="row">
+        <div class="col-md-3 col-xs-12">
+          <ul id="page-navigation" class="nav nav-pill nav-stacked collapse in">
+            {% for p in site.pages %}
+              {% if p.url != '/' %}
+              <li class="nav-item active">
+                <a class="nav-link" {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="col-md-9 col-xs-12">
           <header class="page-header">          
             <h1 class="page-title">{{ page.title }}</h1>
           </header>
@@ -74,6 +74,42 @@
       </div>
 
     </article>
+
+    <script>
+
+    function deviceOS(useragent) { 
+      if(useragent.match(/Android/i)) {
+          return 'android';
+      } else if(useragent.match(/webOS/i)) {
+          return 'webos';
+      } else if(useragent.match(/iPhone/i)) {
+          return 'iphone';
+      } else if(useragent.match(/iPod/i)) {
+          return 'ipod';
+      } else if(useragent.match(/iPad/i)) {
+          return 'ipad';
+      } else if(useragent.match(/Windows Phone/i)) {
+          return 'windows phone';
+      } else if(useragent.match(/SymbianOS/i)) {
+          return 'symbian';
+      } else if(useragent.match(/RIM/i) || useragent.match(/BB/i)) {
+          return 'blackberry';
+      } else {
+          return false;
+      }
+    }
+
+
+    function isVisible(obj) {
+      return obj.offsetWidth > 0 && obj.offsetHeight > 0;
+    }
+
+    if( deviceOS(navigator.userAgent) ) {
+      document.getElementById("page-navigation").classList.remove('in');
+    }
+    </script>
+
+    <script src="{{ site.baseurl }}/js/collapse.js"></script>
 
   </body>
 

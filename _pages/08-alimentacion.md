@@ -68,14 +68,14 @@ Las vacas tienen una esperanza de vida natural de entre 18 y 25 años, pero en l
 </div>
 </div>
 
-[cerdos]: assets/image/El-mismo-problema-de-c_opt.jpeg
+[cerdos]: images/08-cerdos.jpeg
 {:class="img-fluid img-rounded"}
 
-[gallinas1]: assets/image/P12-66525_opt.jpeg
+[gallinas1]: images/08-gallinas1.jpeg
 {:class="img-fluid img-rounded"}
 
-[gallinas2]: assets/image/%d0%9f%d1%82%d0%b8%d1%87%d0%bd%d0%b8%d0%ba_opt.jpeg
+[gallinas2]: images/08-gallinas2.jpeg
 {:class="img-fluid img-rounded"}
 
-[vacas]: assets/image/calfwithmother_opt.png
+[vacas]: images/08-vacas.png
 {:class="img-fluid img-rounded"}

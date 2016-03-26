@@ -30,7 +30,7 @@ Sus vidas transcurren en jaulas estériles en las que casi no pueden moverse, y 
 
 <figure class="figure" markdown="1">
 
-  ![monkey]
+  ![mono]
 
   <figcaption class="figure-caption">Cada año en los Estados Unidos más de 125,000 primates son confinados en laboratorios donde sufren de maltrato para después ser asesinados en experimentos invasivos, dolorosos y aterradores. Son seres sensibles e inteligentes que comparten muchas características tanto biológicas como psicológicas con los humanos. Son estos mismos atributos, los que los convierten en blancos perfectos para los científicos que los tratan como si fueran piezas desechables de equipo de laboratorio.</figcaption>
 
@@ -49,11 +49,11 @@ Sus vidas transcurren en jaulas estériles en las que casi no pueden moverse, y 
 </div>
  
 
-[beagles]: assets/image/CWXH0DJWEAEDd___opt.jpeg
+[beagles]: images/07-beagles.jpeg
 {:class="img-fluid img-rounded"}
 
-[monkey]: assets/image/Silver-Spring-monkey_opt.jpeg
+[mono]: images/07-mono.jpeg
 {:class="img-fluid img-rounded"}
 
-[laika]: assets/image/vpjnmwhjtgjrtzankemu_opt.jpeg
+[laika]: images/07-laika.jpeg
 {:class="img-fluid img-rounded"}
