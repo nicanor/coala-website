@@ -7,22 +7,22 @@ permalink: /problematica
 
 {::options parse_block_html="true" /}
 
-Blablablabla
-------
-
 <div class="row">
 <div class="col-md-6 col-sm-12">
-This is the base Jekyll theme. 
 
+Los animales son usados por los seres humanos para producción de vestimenta y alimentos, para testeo de productos médicos y cosméticos, para transporte de personas y de cargas pesadas, y para la exposición en zoológicos y acuarios. También con fines de entretenimiento en circos, corridas de toros, peleas de perros y doma, deportes tales como la pesca y las carreras, y con fines bélicos, entre otros.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
+La mayoría de las personas estamos de acuerdo en que está mal causar sufrimiento innecesario o muerte a los animales. O, por lo menos, que no deberíamos hacerlo solamente porque obtengamos placer o diversión, o porque sea práctico, o porque sea una simple costumbre.
+ 
+**Pero casi todo el uso que se les da a los animales no puede justificarse por otra razón que no sea placer, entretenimiento, practicidad o hábito.**
 
 </div>
 
 <div class="col-md-6 col-sm-12">
 
-You can find the source code for the Jekyll new theme
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Todos estos usos resultan en sufrimiento y muerte para los animales y son totalmente innecesarios. La mayor parte de este uso es para alimentación.
+
+En las próximas páginas ahondaremos en las formas en que son explotados los animales en la actualidad y lo que podemos hacer al respecto.
+
 </div>
 </div>

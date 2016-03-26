@@ -4,7 +4,6 @@ number: 3
 title: Zoológicos y acuarios
 permalink: /zoologicos-y-acuarios
 kind: explotacion
-next_page: /vestimenta
 
 description: > # ignore newlines until next key.
   Las pobres condiciones en las que viven estos animales junto con el
@@ -14,9 +13,26 @@ description: > # ignore newlines until next key.
   y la falta de estímulos ambientales conlleva un gran sufrimiento y dolor.
 ---
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla vestibulum imperdiet sem, sed blandit magna vestibulum in. Ut quis aliquam enim. Ut nec varius dui. Proin blandit imperdiet turpis, a euismod dolor condimentum efficitur. Aenean accumsan mauris vitae imperdiet finibus. Etiam hendrerit imperdiet cursus. Quisque augue arcu, imperdiet vel pulvinar ut, vehicula ac felis. In viverra risus vitae vehicula posuere. Maecenas at porta felis.
+<div class="row">
+<div class="col-md-6 col-sm-12">
 
-Aenean at tristique enim. Quisque ut feugiat libero. Fusce nisl leo, laoreet eget odio sed, scelerisque iaculis purus. Nullam vel scelerisque felis. Sed aliquam aliquam turpis, eu blandit eros pellentesque quis. Morbi condimentum nisi dapibus ex placerat, et aliquet elit semper. Curabitur accumsan sapien et tincidunt faucibus. Ut dictum erat odio, vel interdum felis viverra quis. Aenean fringilla nulla at nunc aliquam, sed sagittis quam vulputate. Donec malesuada urna ut laoreet elementum. Sed dolor nulla, consectetur in augue ut, lacinia vulputate arcu. Donec a mauris velit. Morbi dignissim molestie mauris, eu eleifend arcu sollicitudin consequat.
+<p>Son establecimientos donde se mantiene en cautividad animales de diferentes especies, especialmente salvajes y exóticas, que pueden ser visitados por el público.</p>
 
+<p>Estos animales nacen en cautiverio o son tomados de sus hábitats naturales y separados de su grupo y familia.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget dolor aliquet, interdum erat non, gravida odio. Curabitur molestie, felis id tempor porta, ipsum nibh pharetra urna, eget fermentum sapien mauris non arcu. Donec ac ipsum tristique, luctus eros vel, tincidunt nisi. Vestibulum nec enim tempor, feugiat magna vitae, efficitur nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus eget blandit est, a fringilla ante. Morbi at erat id augue accumsan volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus ut gravida lectus, non semper risus. Nullam nec nibh ex. Vivamus sodales ultricies elit, sed malesuada libero tempus non. Sed suscipit, nunc vitae lobortis condimentum, velit nibh mollis dui, et hendrerit felis lorem ac dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+<p>Entre las prácticas más comunes en estos establecimientos se encuentran el empleo de sedantes y drogas, el aislamiento y la falta de interacción con otros animales de su especie, maltrato por parte de los cuidadores, entrenamiento como forma de entretenimiento, encierro en jaulas reducidas e insuficiencia de estímulos ambientales.</p>
+
+<p>Estas condiciones de vidas suelen derivar en trastornos que incluyen la repetición monótona y continua de un mismo comportamiento, patrón de conducta o movimiento, trastornos alimenticios como la inapetencia, depresión y bajo estado de ánimo, entre otros. Los elefantes suelen bambolear sus cabezas de un lado a otro, los felinos caminan incesantemente en círculos, los chimpancés y gorilas manifiestan conductas agresivas.</p>
+ 
+<p>En ciertas ocasiones suelen ocurrir muertes prematuras como consecuencia de la propia cautividad y las enfermedades que surgen como consecuencia de la misma.Cuadrito: los elefantes, en estado natural, recorren hasta 20 km al día, se bañan y comen mucha variedad de alimentos, además de establecer unas relaciones sociales complejas con el resto de su grupo.</p>
+
+</div>
+
+ 
+<div class="col-md-6 col-sm-12">
+
+  <img class="img-fluid" src="assets/image/unnamed_2_opt.jpeg">
+
+</div>
+
+</div>

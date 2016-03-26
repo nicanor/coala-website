@@ -60,6 +60,23 @@ body {
   font-size: 2em;
 }
 
+.figure-caption {
+  color: #666;
+}
+
+.destacado {
+  padding: 1em;
+}
+
+hr.separator {
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
+}
+
 li.active {
   font-weight: bolder;
 }
