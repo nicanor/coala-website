@@ -125,25 +125,14 @@ Si no sabés como empezar, [estás invitado a participar con nosotros][sumate].
 Si querés hacerlo por tu cuenta, pero no tenés material para comenzar, [te compartimos el nuestro][material]
 
 
-## Involucrate
+## Sumate
 {: .section-header}
 
-Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros.
+Hace más de 2 años estamos trabajando arduamente y de forma comprometida para poner fin a la explotación animal. Entre nuestras actividades se encuentran las difusiones en puntos estratégicos de la ciudad, talleres de cocina, charlas, intervenciones, actividades artísticas, degustaciones y proyecciones.
 
-Si no sabés cómo empezar, estás invitado a participar con nosotros.
+Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros. Si no sabés cómo empezar, estás invitado a participar con nosotros. Enterate cómo [haciendo click acá][sumate].
 
-### Activismos en 7 y 50
-
-Todos los viernes a la tarde nos podés encontrar en la esquina de 7 y 50 (La Plata) difundiendo los derechos animales y el veganismo. ¡Si querés informarte o participar acércate a conocernos!
-
-### Talleres de cocina
-
-Además realizamos talleres de cocina todos los meses para mostrarle a las personas que una forma de vida vegana puede ser saludable, nutricionalmente adecuada, deliciosa y al alcance de todos!
-
-### Eventos y charlas
-
-Además realizamos otras actividades de difusión, como degustaciones en plazas y charlas en eventos en La Plata y en otras ciudades, y proyecciones.
-
+Te esperamos con los brazos bien abiertos ¡Abrazo animal!
 
 </div>
 
@@ -177,5 +166,5 @@ Pueden contactarse a través de nuestra [página de facebook][facebook] o envian
 [facebook]: http://facebook.com/activismo.coala "Facebook de Coala"
 [email]: mailto:activismo.coala@gmail.com?Subject=Hola%20Coala
 
-[cover]: assets/cover.jpeg "Se ve el logo de Coala, que consiste en la palabra Coala en mayúsculas con la silueta de un koala en lugar de la letra 'O'"
-{:class="img-fluid" srcset="assets/cover-1024.jpg 1024w, assets/cover-1920-800.jpg 1920w"}
+[cover]: images/00-cover-0512.jpg "Se ve el logo de Coala, que consiste en la palabra Coala en mayúsculas con la silueta de un koala en lugar de la letra 'O'"
+{:class="img-fluid" srcset="images/00-cover-0512.jpg 512w, images/00-cover-1024.jpg 1024w, images/00-cover-1920.jpg 1920w"}

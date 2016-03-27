@@ -5,5 +5,5 @@ title: Material
 permalink: /material
 ---
 
-## En construcción
-{: jumbotron}
+## En cons<wbr>truc<wbr>ción
+{: .bg-primary .destacado .display-1}
