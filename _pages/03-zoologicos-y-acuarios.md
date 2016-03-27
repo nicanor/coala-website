@@ -4,13 +4,6 @@ number: 3
 title: Zoológicos y acuarios
 permalink: /zoologicos-y-acuarios
 kind: explotacion
-
-description: > # ignore newlines until next key.
-  Las pobres condiciones en las que viven estos animales junto con el
-  empleo de sedantes y drogas, el aislamiento y la falta de interacción
-  con otros animales de su especie, el maltrato que sufren por parte de
-  los cuidadores incluso para su entrenamiento, el encierro en sus reducidas jaulas
-  y la falta de estímulos ambientales conlleva un gran sufrimiento y dolor.
 ---
 
 <div class="row">

@@ -4,12 +4,6 @@ number: 2
 title: Entretenimiento
 permalink: /entretenimiento
 kind: explotacion
-
-description: > # ignore newlines until next key.
-  Los animales han sido utilizados por los seres humanos durante cientos
-  de años por razones de entretenimiento. Ejemplos de esto son las corridas
-  de toros, los circos con animales, la doma, las peleas de perros, las riñas
-  de gallos, las carreras de galgos y de caballos.
 ---
 
 <div class="row">

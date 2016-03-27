@@ -1,6 +1,6 @@
 ---
 layout: page
-number: 14
+number: 11
 title: ¿Qué más puedo hacer?
 permalink: /que-mas-puedo-hacer
 ---
@@ -23,6 +23,9 @@ Una buena idea es informarte si hay algún grupo de activismo u organización en
 
 Ejemplos de activismo efectivo es tener conversaciones con todas las personas posibles repartiendo material que explique la problemática y lo que se puede hacer al respecto. También la organización de charlas, talleres de cocina, intervenciones artísticas y ferias.
 
+Si querés comenzar a hacer activismo con nosotros, hacé click [aquí][sumate]
+
 Si necesitás consejos y material para difundir podés conseguirlo [aquí][material].
 
+[sumate]: {{ site.baseurl }}/sumate "Sumate"
 [material]: {{ site.baseurl }}/material "Material"
