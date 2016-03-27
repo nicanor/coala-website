@@ -12,9 +12,9 @@
     {% endif %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% if page.image %}
-      <meta content="images/og/{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}/images/og/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="images/00-cover-1920.jpg" property="og:image">
+      <meta content="{{ site.url }}/images/00-cover-1920.jpg" property="og:image">
     {% endif %}
   </head>
   <body class="main">
