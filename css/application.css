@@ -29,15 +29,9 @@ body {
 
 /* LESS THAN 25 */
 @media (max-width: 24.9em) {
-  .pager {
-    font-size: 3em;
-  }
-  .pager-page-title {
-    display: none !important;
-  }
-  .circle {
-    font-size:2em !important;
-  }
+  .navbar-brand {width: 15%;}
+  #navbar ul { width: 75%; }
+  .pager { font-size: 3em; }
 }
 
 h3 {
@@ -102,6 +96,17 @@ li.active {
   font-weight: bolder;
 }
 
+.icon {
+  display: inline-block;
+  width: 1rem;
+  color: white;
+}
+
+.icon--twitter svg {
+  fill: currentColor !important;
+  color: white;
+}
+
 .navbar-nav .nav-link {
   font-size: 0.8em;
   text-transform: uppercase;
@@ -120,6 +125,10 @@ li.active {
 #los-animales-importan,
 #contacto {
   padding-top: 2rem;
+}
+
+#contacto a {
+  color: #9bc2cf;
 }
 
 .principal {

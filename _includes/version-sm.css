@@ -3,15 +3,7 @@
   padding-top: 3rem;
 }
 
-#paginador-realidad {
-  padding-bottom: 2em;
-}
-
-#menu-realidad {
-  white-space: nowrap;
-}
-
 .navbar .circle {
   font-size:2em;
-  line-height: 0.6em;
+  line-height: 0.5em;
 }

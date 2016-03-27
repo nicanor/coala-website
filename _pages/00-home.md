@@ -136,16 +136,6 @@ Te esperamos con los brazos bien abiertos ¡Abrazo animal!
 
 </div>
 
-<div id="contacto" class="bg-inverse">
-<article class="container" markdown="1">
-
-## Contacto
-{: .section-header #titulo-contacto}
-
-Pueden contactarse a través de nuestra [página de facebook][facebook] o enviando un correo electrónico a nuestro email: [activismo.coala@gmail.com][email].
-
-</article>
-</div>
 
 
 [material]: {{ site.baseurl }}/material "Material"

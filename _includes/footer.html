@@ -1,38 +1,44 @@
-<footer class="site-footer">
+<footer id="contacto" class="bg-inverse">
+  <article class="container">
 
-  <div class="wrapper">
+    <div class="row">
+      <div class="col-lg-6 col-sm-12">
+        <h2 class="section-header">Contacto</h2>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+
+        <p>Si querés participar, o querés saber más sobre nosotros, o pensás que te podemos ayudar en algo, podés contactarte a través de nuestra <a  href="http://facebook.com/{{ site.facebook_username }}">página de facebook</a> o enviando un correo electrónico a nuestro email: {{ site.email }}.También podés seguirnos en Twitter: <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></p>
+      </div>
+
+      <div class="col-lg-6 col-sm-12">
+        <div class="row">
+          <div class="col-lg-6 col-sm-6 col-xs-12">
+            <ul class="nav nav-pills nav-stacked">
+              {% for p in site.pages %}
+                {% if p.number < 8 %}
+                <li class="nav-item {% if p.url == page.url %}active{% endif %}">
+                  <a class="nav-link" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12">
+            <ul class="nav nav-pills nav-stacked">
+              <li class="nav-item {% if '/' == page.url %}active{% endif %}">
+                <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a>
+              </li>
+              {% for p in site.pages %}
+                {% if p.number >= 8 %}
+                <li class="nav-item {% if p.url == page.url %}active{% endif %}">
+                  <a class="nav-link" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
-
-  </div>
-
+  </article>
 </footer>
