@@ -4,6 +4,8 @@ number: 8
 title: Alimentación
 permalink: /alimentacion
 kind: explotacion
+description: >
+  Algunas de las especies animales que se utilizan para el consumo de carne son peces, pollos, patos, cerdos, conejos, pavos, ovejas, bovinos, perros, gatos, delfines e insectos. Prácticas comunes en la industria de la carne son cría intensiva, hacinamiento, alimentación forzada, malos tratos, amputaciones sin anestesia y matanza.
 ---
 
 

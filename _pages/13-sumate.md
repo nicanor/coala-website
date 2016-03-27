@@ -3,6 +3,8 @@ layout: page
 number: 13
 title: Sumate a Coala
 permalink: /sumate
+description: >
+  Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros. En Coala hay muchas cosas por hacer ¡Sumate, los animales te necesitan!
 ---
 
 Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros. En Coala hay muchas cosas por hacer **¡Sumate, los animales te necesitan!**
@@ -26,11 +28,10 @@ Un mundo sin explotación animal.
 {: .page-header}
 
 Talleres de cocina
-: hola
+: Los talleres de cocina son encuentros independientes de aproximadamente 2 horas de duración donde se enseña a preparar deliciosas comidas sin ingredientes de origen animal.
 
 Jornadas de difusión
-: chau
+: Nos juntamos en esquinas estratégicas de la ciudad o en plazas para informar a las personas sobre la grave problemática de la explotación animal.
 
 Charlas en secundarios y eventos
-: lala
-
+: Asistimos a eventos y a secundarios para dar charlas sobre la situación que están viviendo los animales, lo que podemos hacer al respecto y sobre cómo ser mejores activistas.

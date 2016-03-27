@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html>
-  <head>{% include head.html %}</head>
+  <head>
+    {% include head.html %}
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
+    {% if page.description %}
+      <meta content="{{ page.description }}" property="og:description">
+    {% else %}
+      <meta content="{{ site.description }}" property="og:description">
+    {% endif %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% if page.image %}
+      <meta content="images/og/{{ page.image }}" property="og:image">
+    {% else %}
+      <meta content="images/00-cover-1920.jpg" property="og:image">
+    {% endif %}
+  </head>
   <body class="main">
 
     <nav id="navbar" class="navbar navbar-custom navbar-fixed-top navbar-dark bg-inverse" role="navigation">
       <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img id="logoimg" src="assets/logoinit.png" alt="Coala" height="35" width="125">
+        <img src="images/00-logo-navbar.png" alt="Coala" height="35" width="125">
       </a>
 
       <ul class="nav navbar-nav pull-xs-right">

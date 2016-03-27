@@ -4,6 +4,8 @@ number: 3
 title: Zoológicos y acuarios
 permalink: /zoologicos-y-acuarios
 kind: explotacion
+description: >
+  Entre las prácticas más comunes en estos establecimientos se encuentran el empleo de sedantes y drogas, el aislamiento y la falta de interacción con otros animales de su especie, maltrato por parte de los cuidadores, entrenamiento como forma de entretenimiento, encierro en jaulas reducidas e insuficiencia de estímulos ambientales.
 ---
 
 <div class="row">

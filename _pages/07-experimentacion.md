@@ -5,6 +5,8 @@ title: Experimentación
 permalink: /experimentación
 kind: explotacion
 next_page: /alimentacion
+description: >
+  La experimentación animal consiste en probar productos en animales antes de comenzar a probarlos en humanos. Se da en el campo de la medicina, en el área militar, en la industria cosmética, los maquillajes, productos de higiene personal y de uso doméstico.
 ---
 
 <div class="row">

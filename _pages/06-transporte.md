@@ -4,6 +4,8 @@ number: 6
 title: Transporte
 permalink: /transporte
 kind: explotacion
+description: >
+  Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
 ---
 
 <div class="row">

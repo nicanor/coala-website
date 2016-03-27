@@ -4,6 +4,8 @@ number: 5
 title: Compra y venta
 permalink: /compra-y-venta
 kind: explotacion
+description: >
+  Entre los animales que se crían para la venta y compra se encuentran los gatos, perros, conejos, aves, tortugas y caballos. La mayor parte de los animales que uno compra en una veterinaria o tienda de mascotas provienen de criaderos. En estos lugares los animales suelen vivir en pésimas condiciones de vida.
 ---
 
 <div class="row">
