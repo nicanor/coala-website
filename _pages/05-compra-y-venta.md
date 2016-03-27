@@ -2,6 +2,7 @@
 layout: page
 number: 5
 title: Compra y venta
+longtitle: ¿Sabés que pasa cuando se compra un animal de raza?
 permalink: /compra-y-venta
 kind: explotacion
 description: >

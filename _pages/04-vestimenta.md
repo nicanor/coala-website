@@ -2,6 +2,7 @@
 layout: page
 number: 4
 title: Vestimenta
+longtitle: Conocé que hay detrás de la industria de las pieles.
 permalink: /vestimenta
 kind: explotacion
 description: >

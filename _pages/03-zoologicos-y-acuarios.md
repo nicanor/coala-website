@@ -2,6 +2,7 @@
 layout: page
 number: 3
 title: Zoológicos y acuarios
+longtitle: ¿Sabías lo que sucede en los zoológicos y acuarios?
 permalink: /zoologicos-y-acuarios
 kind: explotacion
 description: >

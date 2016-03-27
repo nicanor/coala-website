@@ -2,6 +2,7 @@
 layout: page
 number: 2
 title: Entretenimiento
+longtitle: Enterate de lo que está ocurriendo en la industria del entretenimiento
 permalink: /entretenimiento
 kind: explotacion
 description: >

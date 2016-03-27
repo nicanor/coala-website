@@ -2,6 +2,7 @@
 layout: page
 number: 9
 title: Veganismo
+longtitle: Conocé el significado y las razones detrás del veganismo
 permalink: /veganismo
 description: >
   El veganismo es la práctica que busca excluir, en la medida en que sea posible, todas las formas de explotación y crueldad hacia los animales. Los veganos no asistimos a espectáculos con animales, no vestimos lana, cuero ni otras pieles, rechazamos la experimentación animal y no comemos carne, lácteos, huevos ni ningún otro producto de origen animal.

@@ -2,6 +2,7 @@
 layout: page
 number: 8
 title: Alimentación
+longtitle: Conocé la realidad de los animales usados para comida.
 permalink: /alimentacion
 kind: explotacion
 description: >

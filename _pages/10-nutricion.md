@@ -2,6 +2,7 @@
 layout: page
 number: 10
 title: Nutrición
+longtitle: Conocé cómo llevar exitosamente una dieta vegana.
 permalink: /nutricion
 description: >
   Una dieta vegana es una que consiste sólo en alimentos derivados de plantas, ya que los veganos no usan ni consumen ningún animal ni producto de origen animal, como lo son las carnes, los huevos y los lácteos.

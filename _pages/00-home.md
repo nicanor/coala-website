@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Coala - Activismo Vegano
+longtitle: Bienvenido al sitio web de Coala - Activismo Vegano.
 permalink: /
 ---
 

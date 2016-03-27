@@ -96,17 +96,6 @@ li.active {
   font-weight: bolder;
 }
 
-.icon {
-  display: inline-block;
-  width: 1rem;
-  color: white;
-}
-
-.icon--twitter svg {
-  fill: currentColor !important;
-  color: white;
-}
-
 .navbar-nav .nav-link {
   font-size: 0.8em;
   text-transform: uppercase;

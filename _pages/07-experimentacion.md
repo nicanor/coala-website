@@ -2,6 +2,7 @@
 layout: page
 number: 7
 title: Experimentación
+longtitle: Conocé que hay detrás de la experimentación en animales.
 permalink: /experimentación
 kind: explotacion
 next_page: /alimentacion

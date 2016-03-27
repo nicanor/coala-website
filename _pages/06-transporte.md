@@ -2,6 +2,7 @@
 layout: page
 number: 6
 title: Transporte
+longtitle: Conocé la realidad de miles de animales usados como transporte.
 permalink: /transporte
 kind: explotacion
 description: >

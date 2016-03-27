@@ -2,6 +2,7 @@
 layout: page
 number: 1
 title: Problemática
+longtitle: Conocé la problemática de la explotación animal.
 permalink: /problematica
 description: >
   Los animales son usados por los seres humanos para producción de vestimenta y alimentos, para testeo de productos médicos y cosméticos, para transporte de personas y de cargas pesadas, y para la exposición en zoológicos y acuarios. También con fines de entretenimiento en circos, corridas de toros, peleas de perros y doma, deportes tales como la pesca y las carreras, y con fines bélicos, entre otros.
