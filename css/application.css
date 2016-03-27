@@ -127,8 +127,17 @@ li.active {
   padding-top: 2rem;
 }
 
+#contacto li a {
+  padding-left: 0;
+}
+
 #contacto a {
   color: #9bc2cf;
+}
+
+#contacto a:hover {
+  color: #add8e6;
+  text-decoration: none;
 }
 
 .principal {

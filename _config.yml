@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   no violento y efectivo.
 baseurl: "/coala-website" # the subpath of your site, e.g. /blog
 url: "http://coala.com.ar" # the base hostname & protocol for your site
-twitter_username: coala.libre
+twitter_username: CoalaArg
 github_username:  nicanor
 facebook_username: activismo.coala
 permalink: pretty

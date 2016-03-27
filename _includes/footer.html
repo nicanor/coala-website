@@ -3,11 +3,22 @@
 
     <div class="row">
       <div class="col-lg-6 col-sm-12">
-        <h2 class="section-header">Contacto</h2>
-
-        <p>{{ site.description }}</p>
-
-        <p>Si querés participar, o querés saber más sobre nosotros, o pensás que te podemos ayudar en algo, podés contactarte a través de nuestra <a  href="http://facebook.com/{{ site.facebook_username }}">página de facebook</a> o enviando un correo electrónico a nuestro email: {{ site.email }}.También podés seguirnos en Twitter: <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></p>
+        <div class="row">
+          <div class="col-lg-12 col-sm-6">
+            <h2>Contacto</h2>    
+            <p>{{ site.description }}</p>
+          </div>
+          <div class="col-lg-12 col-sm-6">
+            <dl>
+              <dt>Email</dt>
+              <dd>{{ site.email }}</dd>
+              <dt>Facebook</dt>
+              <dd><a href="http://facebook.com/{{ site.facebook_username }}">{{ site.facebook_username }}</a></dd>
+              <dt>Twitter</dt>
+              <dd><a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></dd>
+            </dl>
+          </div>
+        </div>
       </div>
 
       <div class="col-lg-6 col-sm-12">
