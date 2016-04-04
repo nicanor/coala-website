@@ -1,8 +1,10 @@
 ---
 layout: home
+number: 0
 title: Coala - Activismo Vegano
 longtitle: Bienvenido al sitio web de Coala - Activismo Vegano.
 permalink: /
+image: 00-inicio.jpg
 ---
 
 <section id="cover" markdown="span">
@@ -22,17 +24,15 @@ ponerle fin a la explotación animal.
 
 <article class="vision" markdown="1">
 
-**Nuestra visión:**
+**Nuestra visión**
 
-Un mundo sin explotación animal.
+Un mundo sin explotación animal
 {: .important}
 
 </article>
 
-
-**Nuestra misión:** Concientizar a las personas sobre la grave problemática de la explotación animal, alentarlas a hacerse veganas, acompañarlas en su transición e inspirarlas a involucrarse a través de activismo vegano efectivo y no violento.
+Nuestra misión es concientizar a las personas sobre la grave problemática de la explotación animal, alentarlas a hacerse veganas, acompañarlas en su transición e inspirarlas a involucrarse a través de activismo vegano efectivo y no violento.
 {: .mision}
-
 
 
 ## Problemática
@@ -139,17 +139,17 @@ Te esperamos con los brazos bien abiertos ¡Abrazo animal!
 
 
 
-[material]: {{ site.baseurl }}/material "Material"
-[vestimenta]: {{ site.baseurl }}/vestimenta "Vestimenta"
+[material]:        {{ site.baseurl }}/material "Material"
+[vestimenta]:      {{ site.baseurl }}/vestimenta "Vestimenta"
 [entretenimiento]: {{ site.baseurl }}/entretenimiento "Entretenimiento"
-[zoologicos]: {{ site.baseurl }}/zoologicos-y-acuarios "Zoologicos y acuarios"
+[zoologicos]:      {{ site.baseurl }}/zoologicos-y-acuarios "Zoologicos y acuarios"
 [experimentacion]: {{ site.baseurl }}/experimentacion "Experimentación"
-[alimentacion]: {{ site.baseurl }}/alimentacion "Alimentación"
-[transporte]: {{ site.baseurl }}/transporte "Transporte"
-[nutricion]: {{ site.baseurl }}/nutricion "Nutrición"
-[veganismo]: {{ site.baseurl }}/veganismo "Veganismo"
-[educar]: {{ site.baseurl }}/que-mas-puedo-hacer "¿Qué más puedo hacer?"
-[sumate]: {{ site.baseurl }}/sumate "Sumate a Coala"
+[alimentacion]:    {{ site.baseurl }}/alimentacion "Alimentación"
+[transporte]:      {{ site.baseurl }}/transporte "Transporte"
+[nutricion]:       {{ site.baseurl }}/nutricion "Nutrición"
+[veganismo]:       {{ site.baseurl }}/veganismo "Veganismo"
+[educar]:          {{ site.baseurl }}/que-mas-puedo-hacer "¿Qué más puedo hacer?"
+[sumate]:          {{ site.baseurl }}/sumate "Sumate a Coala"
 
 [terricolas]: https://youtube.googleapis.com/v/PRrH6Ml5IDU
 [yourofsky]: https://youtube.googleapis.com/v/PRrH6Ml5IDU

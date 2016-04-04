@@ -4,6 +4,7 @@ number: 5
 title: Compra y venta
 longtitle: ¿Sabés que pasa cuando se compra un animal de raza?
 permalink: /compra-y-venta
+image: 05-compra-y-venta.jpg
 kind: explotacion
 description: >
   Entre los animales que se crían para la venta y compra se encuentran los gatos, perros, conejos, aves, tortugas y caballos. La mayor parte de los animales que uno compra en una veterinaria o tienda de mascotas provienen de criaderos. En estos lugares los animales suelen vivir en pésimas condiciones de vida.

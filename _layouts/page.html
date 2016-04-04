@@ -3,19 +3,28 @@
   <head>
     {% include head.html %}
     <meta content="{{ site.title }}" property="og:site_name">
-    <meta content="{{ page.title }}" property="og:title">
+    <meta content="{{ page.longtitle }}" property="og:title">
     <meta content="article" property="og:type">
-    {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
-    {% else %}
-      <meta content="{{ site.description }}" property="og:description">
-    {% endif %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+    <meta name="twitter:title" content="{{ page.longtitle }}">
+  {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description">
+    <meta name="twitter:description" content="{{ page.description }}">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+    <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {% if page.image %}
-      <meta content="{{ site.url }}/images/og/{{ page.image }}" property="og:image">
-    {% else %}
-      <meta content="{{ site.url }}/images/00-cover-1920.jpg" property="og:image">
-    {% endif %}
+  {% if page.image %}
+    <meta content="{{ site.url }}/images/open-graph/{{ page.image }}" property="og:image">
+    <meta name="twitter:image" content="{{ site.url }}/images/og/{{ page.image }}">
+  {% else %}
+    <meta content="{{ site.url }}/images/open-graph/00-inicio.jpg" property="og:image">
+    <meta name="twitter:image" content="{{ site.url }}/images/open-graph/00-inicio.jpg">
+  {% endif %}
+
   </head>
   <body class="main">
 
@@ -69,7 +78,7 @@
         <div class="col-md-3 col-xs-12">
           <ul id="page-navigation" class="nav nav-pills nav-stacked collapse in">
             {% for p in site.pages %}
-              {% if p.url != '/' %}
+              {% if p.url != '/' and p.url != '/sitemap' %}
               <li class="nav-item active">
                 <a class="nav-link" {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
               </li>
@@ -85,6 +94,15 @@
     
           <section class="page-content">
             {{ content }}
+
+            {% if page.kind == 'explotacion' %}
+            <section class="introduccion-al-veganismo">
+            <blockquote class="blockquote">
+            Las prácticas descriptas en esta sección no son hechos aislados sino que son habituales. En la medida en que no cambiemos nuestra mirada hacia los animales, jamás habrá un cambio significativo para ellos en su terrible situación. Es por esto que debemos abolir todo uso animal. Esto en la práctica significa <a href="{{ site.baseurl }}/veganismo" title="Veganismo">ser veganos</a>.
+            </blockquote>
+            </section>
+            {% endif %}
+                  
           </section>
         </div>
       </div>

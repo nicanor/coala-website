@@ -6,6 +6,8 @@
 
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+<link rel="shortcut icon" type="image/png" href="{{ "/images/favicon.png" | prepend: site.baseurl }}" >
+
 <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap4.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/css/application.css">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

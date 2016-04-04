@@ -32,7 +32,7 @@ Talleres de cocina
 : Los talleres de cocina son encuentros independientes de aproximadamente 2 horas de duración donde se enseña a preparar deliciosas comidas sin ingredientes de origen animal.
 
 Jornadas de difusión
-: Nos juntamos en esquinas estratégicas de la ciudad o en plazas para informar a las personas sobre la grave problemática de la explotación animal.
+: Nos juntamos en esquinas estratégicas de la ciudad o en plazas para informar a las personas sobre la grave problemática de la explotación animal. Repartimos material de difusión, y tenemos conversaciones con todas las personas interesadas.
 
 Charlas en secundarios y eventos
 : Asistimos a eventos y a secundarios para dar charlas sobre la situación que están viviendo los animales, lo que podemos hacer al respecto y sobre cómo ser mejores activistas.

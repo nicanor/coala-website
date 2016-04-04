@@ -74,17 +74,35 @@ Podemos vivir vidas felices y saludables sin usar a los animales, y eso es lo m�
 
 <div class="col-md-6" markdown="1">
 
-Según la Organización de las Naciones Unidas para la Agricultura y la Alimentación, cada año se matan aproximadamente para comida en el mundo 50.000 millones de pollos, 2.715 millones de patos, 1.388 millones de cerdos, 1.169 millones de conejos, 648 millones de gallinas, 635 millones de pavos, 564 millones de ovejas, 402 millones de cabras, 301 millones de bóvidos, 57 millones de otras aves, 23 millones de búfalos, 10 millones de perros, 5 millones de caballos y 1,5 millones de camellos.
+Según la Organización de las Naciones Unidas para la Agricultura y la Alimentación, cada año se matan aproximadamente para comida en el mundo:
+
+* **50.000**{: .number} millones de pollos
+*  **2.715**{: .number} millones de patos
+*  **1.388**{: .number} millones de cerdos
+*  **1.169**{: .number} millones de conejos
+*    **648**{: .number} millones de gallinas
+*    **635**{: .number} millones de pavos
+*    **564**{: .number} millones de ovejas
+*    **402**{: .number} millones de cabras
+*    **301**{: .number} millones de bóvidos
+*     **57**{: .number} millones de otras aves
+*     **23**{: .number} millones de búfalos
+*     **10**{: .number} millones de perros
+*      **5**{: .number} millones de caballos
+*      **1**{: .number}**,5** millones de camellos.
+{: .lista-animales}
 
 Estos números sólo contemplan a los animales terrestres usados para alimentación, y no consideran los animales acuáticos, y los animales muertos por usos de exposición, entretenimiento, experimentación, transporte y vestimenta.
 
 **Si queremos abolir la explotación animal, un movimiento vegano es un requisito necesario; y ese movimiento empieza con la decisión de un individuo.**
 
-Hacerse vegano es más fácil de lo que la mayoría cree. Si estás haciendote vegano, significa que estas discontinuando el consumo de productos animales, incluyendo lo que comés, vestís y usás.
-
 </div>
 
 <div class="col-md-6" markdown="1">
+
+Hacerse vegano es más fácil de lo que la mayoría cree.
+
+Si estás haciendote vegano, significa que estas discontinuando el consumo de productos animales, incluyendo lo que comés, vestís y usás.
 
 Los veganos no se visten con lana, seda, plumas, cuero ni otras pieles. En cambio, pueden vestirse con algodón, microfibra, nylon, poliester, telas sintéticas y otras no derivadas de animales.
 
@@ -94,7 +112,7 @@ Los veganos no utilizan productos de origen animal siempre que puedan evitarlo. 
 
 Los veganos también rechazan el uso de animales para deporte, entretenimiento y transporte.
 
-Hay personas que eligen transicionar al veganismo de a pasos, pero nuestra recomendación es hacerse veganos inmediatamente y nunca volver a comprar ningún producto de origen animal. Es mucho más fácil de lo que la mayoría piensa. Después de todo, si has decidido que no querés seguir participando en la explotación animal, ¿por qué continuar haciéndolo?
+Hay personas que eligen transicionar al veganismo de a pasos, pero nuestra recomendación es hacerse veganos inmediatamente y nunca volver a comprar ningún producto de origen animal. Es mucho más fácil de lo que la mayoría piensa. Después de todo, si has decidido que no querés seguir participando en la explotación animal **¿por qué continuar haciéndolo?**
 
 </div>
 </div>

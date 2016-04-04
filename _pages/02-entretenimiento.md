@@ -4,6 +4,7 @@ number: 2
 title: Entretenimiento
 longtitle: Enterate de lo que está ocurriendo en la industria del entretenimiento
 permalink: /entretenimiento
+image: 02-entretenimiento.jpg
 kind: explotacion
 description: >
   Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.

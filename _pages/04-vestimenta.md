@@ -4,6 +4,7 @@ number: 4
 title: Vestimenta
 longtitle: Conocé que hay detrás de la industria de las pieles.
 permalink: /vestimenta
+image: 04-vestimenta.jpg
 kind: explotacion
 description: >
   La peletería es la industria dedicada a la extracción de la piel de los animales. En algunos casos las pieles son extraídas mientras el animal aún sigue con vida, y el uso de anestésias no siempre es un requisito legal. Algunas de las especies animales usadas en esta industria son visones, zorros, vacas, nutrias, hurones, chinchillas, perros y gatos.
