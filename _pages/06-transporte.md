@@ -9,22 +9,25 @@ description: >
   Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
 ---
 
+![caballo]
+
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 ## Tracción a sangre
 
-  Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
+Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
 
-  En algunas ciudades argentinas aún se permite la tracción a sangre en el medio urbano. Los caballos suelen ser usados para el transporte de cartones y residuos. Muchas veces van sobrecargados y no reciben atención veterinaria ni alimentos adecuados. Es común que sean sometidos a malos tratos y golpes y deban transportar cargas pesadas incluso estando enfermos o en estado de preñez.
+En algunas ciudades argentinas aún se permite la tracción a sangre en el medio urbano. Los caballos suelen ser usados para el transporte de cartones y residuos. Muchas veces van sobrecargados y no reciben atención veterinaria ni alimentos adecuados. Es común que sean sometidos a malos tratos y golpes y deban transportar cargas pesadas incluso estando enfermos o en estado de preñez.
 
-  ![caballo]
+> "Ningún objetivo es tan alto para justificar métodos tan indignos."
+> <footer class="blockquote-footer" markdown="0">Albert Einstein</footer>
+{:class="blockquote"}
 
-  Actualmente se estima que alrededor de 70.000 animales están involucrados en la tracción a sangre en las urbes argentinas.
+Actualmente se estima que alrededor de 70.000 animales están involucrados en la tracción a sangre en las urbes argentinas.
 
-</div>
 
-<div class="col-md-6" markdown="1">
+### Camellos
 
 <figure class="figure" markdown="1">
 
@@ -34,6 +37,7 @@ description: >
 
 </figure>
 
+### Perros
 
 <figure class="figure" markdown="1">
 
@@ -43,20 +47,13 @@ description: >
 
 </figure>
 
+### Elefantes
 
 <figure class="figure" markdown="1">
 
   ![elefantes]
 
   <figcaption class="figure-caption">Los elefantes usados para pasear suelen ser separados de sus familias a temprana edad y entrenados con métodos abusivos.</figcaption>
-
-</figure>
-
-
-
-<figure class="figure" markdown="1">
-
-  <figcaption class="figure-caption">Hoy en día se siguen utilizando bueyes, mulas y caballos para el arado. El uso de látigos es una práctica recurrente.</figcaption>
 
 </figure>
 

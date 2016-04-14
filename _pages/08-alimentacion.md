@@ -9,26 +9,29 @@ description: >
   Algunas de las especies animales que se utilizan para el consumo de carne son peces, pollos, patos, cerdos, conejos, pavos, ovejas, bovinos, perros, gatos, delfines e insectos. Prácticas comunes en la industria de la carne son cría intensiva, hacinamiento, alimentación forzada, malos tratos, amputaciones sin anestesia y matanza.
 ---
 
+![cerdos]
 
 <div class="row">
-<div class="col-xl-4 col-md-12" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 ## Carne 
+{:class="page-header"}
 
 Algunas de las especies animales que se utilizan para el consumo de carne son peces, pollos, patos, cerdos, conejos, pavos, ovejas, bovinos, perros, gatos, delfines e insectos.
  
 
 Prácticas comunes en la industria de la carne son cría intensiva, hacinamiento, alimentación forzada, malos tratos, amputaciones sin anestesia y matanza.
 
-![cerdos]
+> "Si no es suficientemente bueno para mis ojos ¿Por qué entonces es suficientemente bueno para mi estómago?"
+> <footer class="blockquote-footer" markdown="0">Gary Yourofsky - Activista por los derechos animales</footer>
+{:class="blockquote"}
 
 La matanza de los animales es habitualmente llevada a cabo en unas instalaciones específicas denominadas mataderos. Los bobinos son primero inmovilizados y aturdidos de forma mecánica o eléctrica, colgados de las patas traseras y finalmente cortados en su cuello para lograr que se desangre. Su muerte suele demorar varios minutos.
 
-</div>
 
-<div class="col-xl-4 col-md-6" markdown="1">
 
 ## Huevos
+{:class="page-header"}
 
 Las gallinas criadas para la producción del huevo, y conocidas como "gallinas ponedoras" suelen vivir confinadas y amontonadas en jaulas pequeñas donde no pueden darse vuelta ni extender las alas.
  
@@ -47,11 +50,9 @@ Por otro lado los pollos macho carecen de cualquier valor en la industria del hu
 Aun cuando las gallinas pueden vivir por más de quince años, sus vidas son acortadas a dos años en esta industria. Cuando dejan de producir se les mata. Millones de gallinas que ya no son económicamente eficientes para la industria son enviadas al matadero cada año.
 
 
-</div>
-
-<div class="col-xl-4 col-md-6" markdown="1">
 
 ## Industria láctea
+{:class="page-header"}
 
 La leche es el alimento que producen las madres para sus crías mientras estas desarrollan su sistema digestivo para poder consumir otro tipo de alimentos. La industria láctea se ocupa de extraer la leche de vacas, cabras, cerdos y otros animales para consumo humano. 
 
@@ -64,6 +65,10 @@ Para extraer la leche, las vacas son conectadas varias veces al día por sus ubr
 ![vacas]
 
 Una vez que nace la cría se la arrebatan con el propósito de que esta no tome la leche que el productor quiere vender. Las vacas sufren la perdida de sus hijos. Una vez que nacen sus crías si son hembras se las utilizan del mismo modo que su madre. Los terneros macho son matados al poco tiempo de nacer y su carne es vendida para consumo humano.
+
+> "Cada vez que bebés un vaso de leche o comés un pedazo de queso, estás lastimando a una madre"
+> <footer class="blockquote-footer" markdown="0">Profesor Gary L. Francione</footer>
+{:class="blockquote"}
 
 Las vacas tienen una esperanza de vida natural de entre 18 y 25 años, pero en la industria se las mata para el consumo de su carne a los 7 u 8 años, que es cuando dejan de ser económicamente eficientes en su producción de leche.
 

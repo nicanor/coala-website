@@ -10,12 +10,13 @@ description: >
   La peletería es la industria dedicada a la extracción de la piel de los animales. En algunos casos las pieles son extraídas mientras el animal aún sigue con vida, y el uso de anestésias no siempre es un requisito legal. Algunas de las especies animales usadas en esta industria son visones, zorros, vacas, nutrias, hurones, chinchillas, perros y gatos.
 ---
 
+![zorro]
+
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 <figure class="figure" markdown="1">
 
-  ![zorro]
 
   <figcaption class="figure-caption">
     Ya tenés tu piel.
@@ -31,13 +32,14 @@ Algunas de las especies animales usadas en esta industria son visones, zorros, v
 
 Para hacer un sólo abrigo de piel se necesitan 300 chinchillas, 17 linces, 20 focas bebé, 8 focas adultas, 60 visones, 20 nutrias, 20 zorros, 250 ardillas o 12 lobos.
 
+> "Detrás de cada hermosa piel, hay una historia. Una historia barbárica y sangrienta"
+> <footer class="blockquote-footer" markdown="0">Mary Tyler Moore - Actriz estadounidense</footer>
+{:class="blockquote"}
+
 Gran parte de los animales utilizados por esta industria son obtenidos a partir de la cría intensiva. Estos animales suelen vivir en jaulas de tamaño reducido. El hacinamiento y la mala calidad de vida les provoca un gran estrés y depresión. Otra forma de obtener los animales es mediante la caza selectiva. Es común el uso de trampas que le provocan al animal un terrible sufrimiento.
 
 Los métodos utilizados para matar a estos animales van desde el gaseado con monóxido o dióxido de carbono, la dislocación del cuello, la inyección de pentabarbital sódico y la electrocución, hasta el desangrado.
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 <figure class="figure" markdown="1">
 

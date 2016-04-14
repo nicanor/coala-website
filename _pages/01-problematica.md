@@ -11,8 +11,10 @@ description: >
 
 {::options parse_block_html="true" /}
 
+![ojos]
+
 <div class="row">
-<div class="col-md-6 col-sm-12">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 Los animales son usados por los seres humanos para producción de vestimenta y alimentos, para testeo de productos médicos y cosméticos, para transporte de personas y de cargas pesadas, y para la exposición en zoológicos y acuarios. También con fines de entretenimiento en circos, corridas de toros, peleas de perros y doma, deportes tales como la pesca y las carreras, y con fines bélicos, entre otros.
 
@@ -20,13 +22,20 @@ La mayoría de las personas estamos de acuerdo en que está mal causar sufrimien
  
 **Pero casi todo el uso que se les da a los animales no puede justificarse por otra razón que no sea placer, entretenimiento, practicidad o hábito.**
 
+Todos estos usos resultan en sufrimiento y muerte para los animales y son totalmente innecesarios. La mayor parte de este uso es para [alimentación][alimentacion].
+
+> "Erase un humano que, por un breve espacio de tiempo, pudo escuchar hablar a los animales. No ha dejado de llorar desde entonces."
+> <footer class="blockquote-footer" markdown="0">Iván Sáinz-Pardo - <cite title="En la avioneta sobró un sitio.">Escritor</cite></footer>
+{:class="blockquote"}
+
+
 </div>
-
-<div class="col-md-6 col-sm-12">
-
-Todos estos usos resultan en sufrimiento y muerte para los animales y son totalmente innecesarios. La mayor parte de este uso es para alimentación.
+</div>
 
 En las próximas páginas ahondaremos en las formas en que son explotados los animales en la actualidad y lo que podemos hacer al respecto.
+{:class="lead"}
 
-</div>
-</div>
+[ojos]: images/01-eyes.jpg "Ojos de animales"
+{:class="img-fluid img-rounded"}
+
+[alimentacion]: {{ site.baseurl }}/alimentacion "Alimentación"

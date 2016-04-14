@@ -28,11 +28,23 @@ Un mundo sin explotación animal.
 ## Actividades
 {: .page-header}
 
-Talleres de cocina
-: Los talleres de cocina son encuentros independientes de aproximadamente 2 horas de duración donde se enseña a preparar deliciosas comidas sin ingredientes de origen animal.
+### Talleres de cocina
 
-Jornadas de difusión
-: Nos juntamos en esquinas estratégicas de la ciudad o en plazas para informar a las personas sobre la grave problemática de la explotación animal. Repartimos material de difusión, y tenemos conversaciones con todas las personas interesadas.
+Nuestros talleres tienen una duración aproximada de dos horas. En ellos enseñamos a preparar comidas veganas deliciosas y novedosas y al mismo tiempo invitamos a probar todas las preparaciones. 
 
-Charlas en secundarios y eventos
-: Asistimos a eventos y a secundarios para dar charlas sobre la situación que están viviendo los animales, lo que podemos hacer al respecto y sobre cómo ser mejores activistas.
+El costo de los talleres es a voluntad. Con el dinero recaudado cubrimos los costos del taller y financiamos nuestro material de difusión y actividades. Todo nuestro trabajo es de forma voluntaria. 
+
+Durante el evento nos tomamos unos momentos para hablar sobre la grave problemática de la explotación animal y las razones por las cuales llevamos una forma de vida vegana.
+
+
+### Jornadas de difusión
+
+Nos juntamos en esquinas estratégicas de la ciudad o en plazas para informar a las personas sobre la grave problemática de la explotación animal. 
+
+Son espacios distendidos en los cuales tenemos conversaciones con las personas que pasan, tomamos unos mates con ellos mientras les compartimos nuestro material de difusión.
+
+### Charlas en colegios y eventos
+
+Creemos que es importante dar a conocer la situación terrible que están viviendo los animales. Es por eso que organizamos, planificamos y llevamos a cabo charlas en eventos y colegios para concientizar a las personas sobre esta problemática.
+
+Durante estas charlas damos las razones por las cuales elegimos esta forma de vida que es el veganismo, y alentamos a los asistentes a ser veganos y convertirse en activistas.

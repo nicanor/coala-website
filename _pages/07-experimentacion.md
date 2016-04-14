@@ -11,7 +11,7 @@ description: >
 ---
 
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 La experimentación animal consiste en probar productos en animales antes de comenzar a probarlos en humanos. Se da en el campo de la medicina, en el área militar, en la industria cosmética, los maquillajes, productos de higiene personal y de uso doméstico.
 
@@ -21,15 +21,13 @@ Durante las pruebas se somete a los animales a parálisis, adicciones, enfermeda
 
 ![beagles]
 
-
 Estos animales se obtienen de criaderos del propio laboratorio, de criaderos externos que abastecen a varios centros de experimentación o son substraídos de su medio natural.
 
+> Pregúntele a los científicos por qué experimentan con animales, y le responderán: "Porque son como nosotros". Pregúnteles por qué es éticamente correcto experimentar con animales y le contestarán: "Porque los animales no son como nosotros". La experimentación animal descansa en una contradicción lógica.
+> <footer class="blockquote-footer" markdown="0">Charles R. Magel - Profesor de filosofía</footer>
+{:class="blockquote"}
 
 Sus vidas transcurren en jaulas estériles en las que casi no pueden moverse, y sólo las abandonan al ser sometidos a crueles experimentos, luego de los cuales, si sobreviven, son asesinados.
-
-</div>
-
-<div class="col-md-6" markdown="1">
 
 <figure class="figure" markdown="1">
 
@@ -39,6 +37,7 @@ Sus vidas transcurren en jaulas estériles en las que casi no pueden moverse, y 
 
 </figure>
 
+### Laika
 
 <figure class="figure" markdown="1">
 

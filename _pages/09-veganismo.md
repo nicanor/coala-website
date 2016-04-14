@@ -8,11 +8,15 @@ description: >
   El veganismo es la práctica que busca excluir, en la medida en que sea posible, todas las formas de explotación y crueldad hacia los animales. Los veganos no asistimos a espectáculos con animales, no vestimos lana, cuero ni otras pieles, rechazamos la experimentación animal y no comemos carne, lácteos, huevos ni ningún otro producto de origen animal.
 ---
 
+![abrazo]
+
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 Un ser sintiente es un ser que percibe de manera consciente; un ser que tiene intereses; o sea, un ser que prefiere, desea o quiere. Esos intereses no tienen que parecerse a los intereses humanos. Si un ser tiene algún tipo de mente que pueda experimentar frustración o satisfacción o cualquier otro interés que un ser tenga, entonces es un ser sintiente.
- 
+
+
+
 Los animales son seres sintientes. Ellos valoran sus vidas incluso si nadie más lo hace. Son capaces de ser felices y de sufrir, y en este momento están siendo usados por los seres humanos de las formas más crueles.
 
 
@@ -20,9 +24,6 @@ Los animales son seres sintientes. Ellos valoran sus vidas incluso si nadie más
 
 Dejar la carne es una decisión muy importante, aunque se debe tener en cuenta que en la industria de los huevos y la leche hay tanto o, más sufrimiento, y una vez que el animal deja de ser económicamente eficiente en su producción, se lo mata. Consumir huevos o lácteos implica continuar participando en prácticas crueles hacia los animales, por lo que no es una solución.
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 **¿Es la solución mejorar las condiciones en las cuales los animales son utilizados?**
 
@@ -32,17 +33,9 @@ En la medida en que no cambiemos nuestra mirada hacia los animales, jamás habr�
 
 **Esto en la práctica significa ser veganos.**
 
-</div>
-
-</div>
-
 <hr class="separator">
 
 ## ¿Qué es el veganismo?
-
-<div class="row">
-
-<div class="col-md-6" markdown="1">
 
 El veganismo es la práctica que busca excluir, en la medida en que sea posible, todas las formas de explotación y crueldad hacia los animales.
 {: .destacado .bg-primary}
@@ -51,9 +44,6 @@ Los veganos consideramos que todos los seres con capacidad para sentir merecen v
 
 Los veganos no asistimos a espectáculos con animales, no vestimos lana, cuero ni otras pieles, rechazamos la experimentación animal y no comemos carne, lácteos, huevos ni ningún otro producto de origen animal.
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 **Pero ser vegano no es una lista de cosas para hacer y no hacer.**
 
@@ -63,16 +53,10 @@ Ser vegano es reconocer el valor moral de los animales y aplicar en nuestras vid
 
 Podemos vivir vidas felices y saludables sin usar a los animales, y eso es lo más importante que cada uno de nosotros puede hacer ahora mismo por ellos.
 
-</div>
-</div>
-
 <hr class="separator">
 
 ## Hoy mismo podés ponerle fin a la explotación animal
 
-<div class="row">
-
-<div class="col-md-6" markdown="1">
 
 Según la Organización de las Naciones Unidas para la Agricultura y la Alimentación, cada año se matan aproximadamente para comida en el mundo:
 
@@ -96,9 +80,6 @@ Estos números sólo contemplan a los animales terrestres usados para alimentaci
 
 **Si queremos abolir la explotación animal, un movimiento vegano es un requisito necesario; y ese movimiento empieza con la decisión de un individuo.**
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 Hacerse vegano es más fácil de lo que la mayoría cree.
 
@@ -116,3 +97,7 @@ Hay personas que eligen transicionar al veganismo de a pasos, pero nuestra recom
 
 </div>
 </div>
+
+
+[abrazo]: images/09-abrazo.jpg
+{:class="img-fluid img-rounded"}

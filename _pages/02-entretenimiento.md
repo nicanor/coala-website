@@ -10,29 +10,18 @@ description: >
   Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.
 ---
 
+![elefante]
+ 
+
+
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
+
+La dominación, los golpes, las descargas eléctricas, las privaciones de comida y agua, las jaulas y el miedo son partes esenciales del entrenamiento que sufren los animales.
+{: .figure-caption}
 
 Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.
 
-
-<figure class="figure" markdown="1">
-
-![elefante]
-
-<figcaption class="figure-caption" markdown="1">
-
-  **¿Divertido para quién?**
-
-  La dominación, los golpes, las descargas eléctricas, las privaciones de comida y agua, las jaulas y el miedo son partes esenciales del entrenamiento que sufren los animales.
-
-</figcaption>
-
-</figure>
-
-
-</div>
-<div class="col-md-6" markdown="1">
 
 
 ## Cacería
@@ -43,6 +32,7 @@ Durante cientos de años los animales han sido utilizados por los seres humanos 
   
   <figcaption class="figure-caption">Es la práctica que tiene como objetivo matar animales en su hábitat natural por deporte y ocio. Esto conlleva el sufrimiento y dolor producido por las heridas de calibre en distintas zonas de su cuerpo. Muchas veces los animales son heridos por los cazadores provocándoles una muerte lenta.</figcaption>
 </figure>
+
 
 
 ## Carreras de galgos
@@ -77,7 +67,7 @@ Durante cientos de años los animales han sido utilizados por los seres humanos 
 [elefante]: images/02-elefante.jpeg "En la imágen se observa la pata de un elefante atada con gruesas cadenas"
 {:class="figure-image img-fluid img-rounded"}
 
-[caza]: images/02-caza.jpeg
+[caza]: images/02-caza.jpg
 {:class="figure-image img-fluid img-rounded"}
 
 [galgos]: images/02-galgos.jpeg

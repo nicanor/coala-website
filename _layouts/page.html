@@ -75,8 +75,8 @@
     <article class="page container">
 
       <div class="row">
-        <div class="col-md-3 col-xs-12">
-          <ul id="page-navigation" class="nav nav-pills nav-stacked collapse in">
+        <div class="col-md-4 col-xs-12">
+          <ul id="page-navigation" class="nav nav-pills nav-stacked collapse in left-navigator">
             {% for p in site.pages %}
               {% if p.url != '/' and p.url != '/sitemap' %}
               <li class="nav-item active">
@@ -87,7 +87,7 @@
           </ul>
         </div>
 
-        <div class="col-md-9 col-xs-12">
+        <div class="col-md-8 col-xs-12">
           <header class="page-header">          
             <h1 class="page-title">{{ page.title }}</h1>
           </header>
@@ -97,9 +97,9 @@
 
             {% if page.kind == 'explotacion' %}
             <section class="introduccion-al-veganismo">
-            <blockquote class="blockquote">
+            <p class="lead">
             Las prácticas descriptas en esta sección no son hechos aislados sino que son habituales. En la medida en que no cambiemos nuestra mirada hacia los animales, jamás habrá un cambio significativo para ellos en su terrible situación. Es por esto que debemos abolir todo uso animal. Esto en la práctica significa <a href="{{ site.baseurl }}/veganismo" title="Veganismo">ser veganos</a>.
-            </blockquote>
+            </p>
             </section>
             {% endif %}
                   

@@ -10,7 +10,7 @@ description: >
 
 
 <div class="row">
-<div class="col-md-6" markdown="1">
+<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 Una dieta vegana es una que consiste sólo en alimentos derivados de plantas, ya que los veganos no usan ni consumen ningún animal ni producto de origen animal, como lo son las carnes, los huevos y los lácteos.
 
@@ -20,9 +20,6 @@ Al igual que los no veganos, los veganos comen frutas, ensaladas, sopas, guisos,
 Según la Sociedad Argentina de Nutrición, una dieta sin productos de origen animal bien planificada es saludable, nutricionalmente adecuada y puede proveer beneficios en la prevención y tratamiento de ciertas enfermedades. Es apropiada para los individuos durante todas las etapas de la vida, incluyendo embarazo, lactancia, infancia, niñez y adolescencia. Y también para atletas.
 {: .destacado .bg-primary}
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 Una dieta vegana balanceada está compuesta por los siguientes 4 grupos alimenticios:
 
@@ -38,17 +35,10 @@ Una dieta vegana balanceada está compuesta por los siguientes 4 grupos alimenti
 4- Frutas
 : La mayoría de las frutas son una excelente fuente de vitamina C y proveen antioxidantes y fibra. Ejemplos son arándano, frutilla, frambuesa, limón, mandarina, naranja, pomelo, melón, sandía, palta, coco, ananá, kiwi, damasco, durazno, ciruela, cereza, manzana, pera, uva, banana.
 
-</div>
-
-</div>
 
 <hr class="separator">
 
 ## ¿Es saludable una dieta vegana?
-
-<div class="row">
-
-<div class="col-md-6" markdown="1">
 
 
 **ATENCIÓN**: El objetivo de esta sección es dar una visión general de los aspectos nutricionales de una dieta vegana. Para asegurarte que tu dieta comprende todos los nutrientes que tu cuerpo necesita por favor consultá a un nutricionista profesional especializado en dietas veganas.
@@ -66,9 +56,6 @@ Vitamína D
 Omega 3 - Acidos grasos
 : Un balance apropiado de ácidos grasos esenciales es importante para una óptima función cerebral del corazón y desarrollo infantil. Se puede encontrar en semillas y aceite de lino y semillas de cáñamo.
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 **¿Qué pasa con el calcio?**
 
@@ -82,17 +69,10 @@ Las proteínas contribuyen a la salud de músculos y huesos, reparación de teji
 
 El hierro cumple un rol fundamental en el transporte del oxígeno a través de la sangre. La presencia de vitamina C favorece la correcta absorción del hierro. Tienen hierro las algas, almendras, avena, espinaca, cereales integrales y lentejas, combinados con limón o naranja.
 
-</div>
-
-</div>
 
 <hr class="separator">
 
 ## ¿Cómo cocinar sin ingredientes de origen animal?
-
-<div class="row">
-
-<div class="col-md-6" markdown="1">
 
 
 **Leches vegetales**
@@ -101,23 +81,21 @@ Una leche vegetal es una preparación que se fabrica a partir de semillas, fruto
 
 Se puede hacer leches vegetales con almendras, coco, soja, arroz, quínoa, avena, sésamo, alpiste, nuez, semillas de girasol, melón y zapallo y, para casi todas, el proceso de preparación es tan fácil como remojar la legumbre, semilla, fruto seco o cereal durante unas horas, agregar agua, procesar y filtrar.
 
-</div>
-
-<div class="col-md-6" markdown="1">
 
 **¿Qué hago con las recetas que llevan huevo?**
 
 El huevo puede ser fácilmente reemplazado en la cocina usando ingredientes de origen vegetal. Para la preparación de bizcochuelos o panificados, se reemplaza por una mezcla de semillas de chía, lino o almidón de maíz con agua. Para los rebozados o para unir tortillas o hamburguesas se puede utilizar harina de garbanzos, maíz, arroz, trigo o soja, agregando agua fría hasta lograr una consistencia espesa. Para untables y cremas se puede utilizar almidón de maíz y agua,
 
-</div>
-</div>
-
-## Encontrá recetas en los siguientes enlaces:
+**Encontrá recetas en los siguientes enlaces:**
 
 - [Dimensión vegana][dimension]
 - [La Usina Vegana][usina]
 - [Practical Vegan][practical]
 - [Creative Vegan][creative]
+
+</div>
+</div>
+
 
 [dimension]: http://www.dimensionvegana.com "Dimensión Vegana"
 [usina]: http://facebook.com/lausinavegana "Usina Vegana"

@@ -4,6 +4,10 @@ body {
   background-color: #fff;
 }
 
+html {
+  font-size: 18px;
+}
+
 .principal {
   max-width: 720px;
 }
@@ -149,6 +153,7 @@ li.active {
 
 #contacto li a {
   padding-left: 0;
+  padding-bottom: 0;
 }
 
 #contacto a {
@@ -193,4 +198,8 @@ li.active {
   width: 3em;
   display: inline-block;
   text-align: right;
+}
+
+.left-navigator li a.nav-link {
+  padding-bottom: 0;
 }
