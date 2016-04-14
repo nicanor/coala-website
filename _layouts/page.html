@@ -102,7 +102,19 @@
             </p>
             </section>
             {% endif %}
-                  
+
+            <section class="pager">
+
+            {% if prev_post_url and post_index0 > 1 %}
+              <a class="btn btn-primary" href="{{ site.baseurl }}{{ prev_post_url }}">❰ {{ prev_post_title }}</a>
+            {% endif %}
+
+            {% if next_post_url and post_index0 < 13 %}
+              <a class="btn btn-primary" href="{{ site.baseurl }}{{ next_post_url }}">{{ next_post_title }} ❱</a>
+            {% endif %}
+
+            </section>
+                
           </section>
         </div>
       </div>

@@ -105,6 +105,7 @@ h3 {
 
 .destacado {
   padding: 1rem;
+  text-align: center;
 }
 
 .muy-destacado {
@@ -202,4 +203,8 @@ li.active {
 
 .left-navigator li a.nav-link {
   padding-bottom: 0;
+}
+
+.blockquote {
+  text-align: left;
 }

@@ -27,7 +27,8 @@ permalink: /sitemap
     <section class="page-content">
     <div class="row">
     {% for p in site.pages %}
-      <div class="col-md-4">
+      {% if p.url != '/feed.xml' and p.url != '/sitemap' %}
+      <div class="col-sm-12 col-lg-4 col-xs-12">
         <article class="card">
           <img class="card-img-top img-fluid" src="images/open-graph/{{ p.image }}" alt="Falta imagen">
           <div class="card-block sitemap-card-block">
@@ -37,6 +38,7 @@ permalink: /sitemap
           </div>
         </article>
       </div>
+      {% endif %}
     {% endfor %}
     </div>
     </section>
