@@ -10,19 +10,18 @@ description: >
   Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.
 ---
 
-![elefante]
  
 
+Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.
 
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
+<figure class="figure" markdown="1">
+
+![elefante]
 
 La dominación, los golpes, las descargas eléctricas, las privaciones de comida y agua, las jaulas y el miedo son partes esenciales del entrenamiento que sufren los animales.
 {: .figure-caption}
 
-Durante cientos de años los animales han sido utilizados por los seres humanos para su entretenimiento y diversión. Algunos ejemplos de esto son: circos, zoológicos, acuarios, corridas de toros, cacería, pesca deportiva, doma, carreras de caballo y de galgos. Todas estos usos conllevan sufrimiento y muerte para los animales.
-
-
+</figure>
 
 ## Cacería
 
@@ -60,9 +59,6 @@ Durante cientos de años los animales han sido utilizados por los seres humanos 
 
   <figcaption class="figure-caption">Es un deporte que cosiste en mantenerse sobre el lomo de un caballo durante el mayor tiempo posible. Esta práctica conlleva maltratos y sufrimiento por medio de golpes, latigazos y descargas eléctricas provocandole al caballo desorientación y nerviosismo.</figcaption>
 </figure>
-
-</div>
-</div>
 
 [elefante]: images/02-elefante.jpeg "En la imágen se observa la pata de un elefante atada con gruesas cadenas"
 {:class="figure-image img-fluid img-rounded"}

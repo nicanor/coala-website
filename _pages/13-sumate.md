@@ -4,6 +4,7 @@ number: 13
 title: Sumate a Coala
 longtitle: ¡Sumate a Coala, los animales te necesitan!
 permalink: /sumate
+image: 13-sumate.jpg
 description: >
   Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros. En Coala hay muchas cosas por hacer ¡Sumate, los animales te necesitan!
 ---

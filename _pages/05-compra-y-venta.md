@@ -10,12 +10,10 @@ description: >
   Entre los animales que se crían para la venta y compra se encuentran los gatos, perros, conejos, aves, tortugas y caballos. La mayor parte de los animales que uno compra en una veterinaria o tienda de mascotas provienen de criaderos. En estos lugares los animales suelen vivir en pésimas condiciones de vida.
 ---
 
-![dogs]
-
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 Entre los animales que se crían para la venta y compra se encuentran los gatos, perros, conejos, aves, tortugas y caballos. La mayor parte de los animales que uno compra en una veterinaria o tienda de mascotas provienen de criaderos. En estos lugares los animales suelen vivir en pésimas condiciones de vida.
+
+![dogs]
 
 En estas instituciones las prácticas más comunes incluyen la reproducción forzada, matanza de los animales enfermos o más pequeños de la camada, hacinamiento y confinamiento.
 
@@ -38,9 +36,6 @@ Para conseguir un animal con unas características físicas y psíquicas concret
 {:class="blockquote"}
 
 En las calles hay muchos animales que necesitan un hogar de forma desesperada. Comprar un animal es financiar una industria muy cruel. **Un animal comprado es uno menos adoptado.**
-
-</div>
-</div>
 
 
 [dogs]: images/05-dogs.jpeg

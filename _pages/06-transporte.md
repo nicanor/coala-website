@@ -4,19 +4,18 @@ number: 6
 title: Transporte
 longtitle: Conocé la realidad de miles de animales usados como transporte.
 permalink: /transporte
+image: 06-transporte.jpg
 kind: explotacion
 description: >
   Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
 ---
 
-![caballo]
-
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 ## Tracción a sangre
 
 Se llama tracción a sangre a la utilización de animales domésticos para tirar distintos tipos de carruajes destinados al transporte de personas o mercancías. Los principales animales utilizados son los caballos, burros, mulas, bueyes, camellos, dromedarios, llamas, vicuñas, alpacas, elefantes y perros.
+
+![caballo]
 
 En algunas ciudades argentinas aún se permite la tracción a sangre en el medio urbano. Los caballos suelen ser usados para el transporte de cartones y residuos. Muchas veces van sobrecargados y no reciben atención veterinaria ni alimentos adecuados. Es común que sean sometidos a malos tratos y golpes y deban transportar cargas pesadas incluso estando enfermos o en estado de preñez.
 

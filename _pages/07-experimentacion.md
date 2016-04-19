@@ -5,13 +5,11 @@ title: Experimentación
 longtitle: Conocé que hay detrás de la experimentación en animales.
 permalink: /experimentacion
 kind: explotacion
+image: 07-experimentacion.jpg
 next_page: /alimentacion
 description: >
   La experimentación animal consiste en probar productos en animales antes de comenzar a probarlos en humanos. Se da en el campo de la medicina, en el área militar, en la industria cosmética, los maquillajes, productos de higiene personal y de uso doméstico.
 ---
-
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 La experimentación animal consiste en probar productos en animales antes de comenzar a probarlos en humanos. Se da en el campo de la medicina, en el área militar, en la industria cosmética, los maquillajes, productos de higiene personal y de uso doméstico.
 
@@ -46,9 +44,6 @@ Sus vidas transcurren en jaulas estériles en las que casi no pueden moverse, y 
   <figcaption class="figure-caption">Laika, la primera astronauta, era una perrita callejera de Moscú que había nacido en 1954. Cuando fue capturada por el programa espacial soviético en 1957, pesaba 6 kg y tenía 3 años. Fue llevada al centro de entrenamiento donde tuvo que soportar estar en espacios reducidos en una cápsula, ruidos altos, grandes vibraciones y aceleraciones enormes de los despegues. Cuando embarcaron a Laika, sabían que nunca más la volverían a ver.</figcaption>
 
 </figure>
-
-</div>
-</div>
  
 
 [beagles]: images/07-beagles.jpeg

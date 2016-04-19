@@ -10,13 +10,13 @@ description: >
   La peletería es la industria dedicada a la extracción de la piel de los animales. En algunos casos las pieles son extraídas mientras el animal aún sigue con vida, y el uso de anestésias no siempre es un requisito legal. Algunas de las especies animales usadas en esta industria son visones, zorros, vacas, nutrias, hurones, chinchillas, perros y gatos.
 ---
 
+
+
+La peletería es la industria dedicada a la extracción de la piel de los animales. En algunos casos las pieles son extraídas mientras el animal aún sigue con vida, y el uso de anestésias no siempre es un requisito legal.
+
 ![zorro]
 
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
-
 <figure class="figure" markdown="1">
-
 
   <figcaption class="figure-caption">
     Ya tenés tu piel.
@@ -24,9 +24,6 @@ description: >
   </figcaption>
 
 </figure>
-
-
-La peletería es la industria dedicada a la extracción de la piel de los animales. En algunos casos las pieles son extraídas mientras el animal aún sigue con vida, y el uso de anestésias no siempre es un requisito legal.
 
 Algunas de las especies animales usadas en esta industria son visones, zorros, vacas, nutrias, hurones, chinchillas, perros y gatos.
 
@@ -66,9 +63,6 @@ Los métodos utilizados para matar a estos animales van desde el gaseado con mon
   <figcaption class="figure-caption">Las plumas se usan para fabricar abrigos y acolchados. Suelen ser de ganso y pato. En algunos establecimientos se les substraen las plumas aun estando vivos.</figcaption>
 
 </figure>
-
-</div>
-</div>
 
 
 [zorro]: images/04-zorro.jpeg

@@ -4,6 +4,7 @@ number: 12
 title: Material
 longtitle: Todo el material de Coala para que uses en tu activismo.
 permalink: /material
+image: 12-material.jpg
 description: >
   ¿Querés hacer activismo por los animales y no sabés cómo?
   Descargate todo el material de Coala. Tenemos folletos, cuadernillos informativos,

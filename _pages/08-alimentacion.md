@@ -5,20 +5,18 @@ title: Alimentación
 longtitle: Conocé la realidad de los animales usados para comida.
 permalink: /alimentacion
 kind: explotacion
+image: 08-alimentacion.jpg
 description: >
   Algunas de las especies animales que se utilizan para el consumo de carne son peces, pollos, patos, cerdos, conejos, pavos, ovejas, bovinos, perros, gatos, delfines e insectos. Prácticas comunes en la industria de la carne son cría intensiva, hacinamiento, alimentación forzada, malos tratos, amputaciones sin anestesia y matanza.
 ---
 
-![cerdos]
-
-<div class="row">
-<div class="col-lg-offset-2 col-lg-8 col-sm-12" markdown="1">
 
 ## Carne 
 {:class="page-header"}
 
 Algunas de las especies animales que se utilizan para el consumo de carne son peces, pollos, patos, cerdos, conejos, pavos, ovejas, bovinos, perros, gatos, delfines e insectos.
  
+![cerdos]
 
 Prácticas comunes en la industria de la carne son cría intensiva, hacinamiento, alimentación forzada, malos tratos, amputaciones sin anestesia y matanza.
 
@@ -72,9 +70,6 @@ Una vez que nace la cría se la arrebatan con el propósito de que esta no tome 
 
 Las vacas tienen una esperanza de vida natural de entre 18 y 25 años, pero en la industria se las mata para el consumo de su carne a los 7 u 8 años, que es cuando dejan de ser económicamente eficientes en su producción de leche.
 
-
-</div>
-</div>
 
 [cerdos]: images/08-cerdos.jpeg
 {:class="img-fluid img-rounded"}

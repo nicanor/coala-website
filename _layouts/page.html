@@ -93,7 +93,14 @@
           </header>
     
           <section class="page-content">
-            {{ content }}
+            <img class="principal-image img-fluid" src="images/principal/256/{{ page.image }} 256w"
+                 srcset="images/principal/256/{{ page.image }} 256w,
+                         images/principal/512/{{ page.image }} 512w,
+                         images/principal/1024/{{ page.image }} 1024w">
+
+            <section class="main-content">
+              {{ content }}
+            </section>
 
             {% if page.kind == 'explotacion' %}
             <section>

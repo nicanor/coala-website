@@ -4,6 +4,7 @@ number: 11
 title: ¿Qué más puedo hacer?
 longtitle: ¿Ya sos vegano? Aquí los siguientes pasos para ayudar a los animales.
 permalink: /que-mas-puedo-hacer
+image: 11-que-mas-puedo-hacer.jpg
 description: >
   Si ya sos vegano o estás en transición y querés hacer algo más por los animales, lo siguiente más importante que podés hacer es educar a otros. Si ya lo estás haciendo en tu vida privada, el siguiente paso consiste en hacerlo en forma de activismo vegano, organizado, metódico y efectivo.
 ---
